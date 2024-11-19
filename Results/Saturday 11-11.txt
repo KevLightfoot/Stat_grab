@@ -1,0 +1,2504 @@
+Saturday 11/11:
+
+
+#82 Utah St  at  #89 Bradley
+
+Strength of Schedule:
+Utah St: 333
+Bradley: 53
+Bradley ↑ 280
+
+Points per game: 
+Utah St: -- (332)
+Bradley: 73.0 (155)
+Bradley ↑ 177
+
+Opponent Points per game: 
+Utah St: -- (332)
+Bradley: 71.0 (146)
+Bradley ↑ 186
+
+Effective FG %: 
+Utah St: -- (332)
+Bradley: 51.7% (129)
+Bradley ↑ 203
+
+Opponent Effective FG %: 
+Utah St: -- (332)
+Bradley: 35.8% (16)
+Bradley ↑ 316
+
+Rebound Rate: 
+Utah St: -- (332)
+Bradley: 44.9% (260)
+Bradley ↑ 72
+
+3 point statistics: 
+3 point %: 
+Utah St: -- (332)
+Bradley: 33.3% (146)
+Bradley ↑ 186
+% points from 3: 
+Utah St: -- (332)
+Bradley: 15.8% (15)
+Bradley ↑ 317
+Opponent 3 point %: 
+Utah St: -- (332)
+Bradley: 15.8% (15)
+Bradley ↑ 317
+
+Bradley ↑ 1234
+{1234, 'Bradley'}
+_______________________________________________________
+
+
+#104 Ohio  at  #110 Cleveland St
+
+Strength of Schedule:
+Ohio: 195
+Cleveland St: 130
+Cleveland St ↑ 65
+
+Points per game: 
+Ohio: 88.0 (44)
+Cleveland St: 77.0 (114)
+Ohio ↑ 70
+
+Opponent Points per game: 
+Ohio: 70.0 (134)
+Cleveland St: 79.0 (218)
+Ohio ↑ 84
+
+Effective FG %: 
+Ohio: 50.8% (145)
+Cleveland St: 50.8% (149)
+Ohio ↑ 4
+
+Opponent Effective FG %: 
+Ohio: 44.1% (87)
+Cleveland St: 49.2% (155)
+Ohio ↑ 68
+
+Rebound Rate: 
+Ohio: 44.4% (266)
+Cleveland St: 48.9% (185)
+Cleveland St ↑ 81
+
+3 point statistics: 
+3 point %: 
+Ohio: 28.0% (224)
+Cleveland St: 45.0% (25)
+Cleveland St ↑ 199
+% points from 3: 
+Ohio: 23.9% (240)
+Cleveland St: 33.3% (171)
+Cleveland St ↑ 69
+Opponent 3 point %: 
+Ohio: 27.3% (80)
+Cleveland St: 33.3% (171)
+Ohio ↑ 91
+
+Ohio ↑ 80
+{80, 'Ohio'}
+_______________________________________________________
+
+
+#159 Louisiana  at  #100 Toledo
+
+Strength of Schedule:
+Louisiana: 191
+Toledo: 290
+Louisiana ↑ 99
+
+Points per game: 
+Louisiana: 72.0 (163)
+Toledo: 94.0 (17)
+Toledo ↑ 146
+
+Opponent Points per game: 
+Louisiana: 62.0 (63)
+Toledo: 60.0 (47)
+Toledo ↑ 16
+
+Effective FG %: 
+Louisiana: 39.2% (290)
+Toledo: 60.7% (21)
+Toledo ↑ 269
+
+Opponent Effective FG %: 
+Louisiana: 41.7% (59)
+Toledo: 59.6% (290)
+Louisiana ↑ 231
+
+Rebound Rate: 
+Louisiana: 48.9% (184)
+Toledo: 55.7% (62)
+Toledo ↑ 122
+
+3 point statistics: 
+3 point %: 
+Louisiana: 20.8% (301)
+Toledo: 60.0% (1)
+Toledo ↑ 300
+% points from 3: 
+Louisiana: 20.8% (273)
+Toledo: 30.0% (128)
+Toledo ↑ 145
+Opponent 3 point %: 
+Louisiana: 8.7% (5)
+Toledo: 30.0% (128)
+Louisiana ↑ 123
+
+Toledo ↑ 223
+{223, 'Toledo'}
+_______________________________________________________
+
+
+#151 Fresno St  at  #116 Kent St
+
+Strength of Schedule:
+Fresno St: 341
+Kent St: 169
+Kent St ↑ 172
+
+Points per game: 
+Fresno St: -- (332)
+Kent St: 108.0 (1)
+Kent St ↑ 331
+
+Opponent Points per game: 
+Fresno St: -- (332)
+Kent St: 113.0 (330)
+Kent St ↑ 2
+
+Effective FG %: 
+Fresno St: -- (332)
+Kent St: 48.7% (182)
+Kent St ↑ 150
+
+Opponent Effective FG %: 
+Fresno St: -- (332)
+Kent St: 57.8% (276)
+Kent St ↑ 56
+
+Rebound Rate: 
+Fresno St: -- (332)
+Kent St: 54.8% (66)
+Kent St ↑ 266
+
+3 point statistics: 
+3 point %: 
+Fresno St: -- (332)
+Kent St: 39.3% (66)
+Kent St ↑ 266
+% points from 3: 
+Fresno St: -- (332)
+Kent St: 48.6% (316)
+Kent St ↑ 16
+Opponent 3 point %: 
+Fresno St: -- (332)
+Kent St: 48.6% (316)
+Kent St ↑ 16
+
+Kent St ↑ 977
+{'Kent St', 977}
+_______________________________________________________
+
+
+#207 N Dakota St  at  #7 Creighton
+
+Strength of Schedule:
+N Dakota St: 289
+Creighton: 232
+Creighton ↑ 57
+
+Points per game: 
+N Dakota St: 80.0 (89)
+Creighton: 105.0 (2)
+Creighton ↑ 87
+
+Opponent Points per game: 
+N Dakota St: 76.0 (191)
+Creighton: 54.0 (19)
+Creighton ↑ 172
+
+Effective FG %: 
+N Dakota St: 46.4% (209)
+Creighton: 70.1% (2)
+Creighton ↑ 207
+
+Opponent Effective FG %: 
+N Dakota St: 51.5% (189)
+Creighton: 36.7% (23)
+Creighton ↑ 166
+
+Rebound Rate: 
+N Dakota St: 56.2% (60)
+Creighton: 71.4% (2)
+Creighton ↑ 58
+
+3 point statistics: 
+3 point %: 
+N Dakota St: 40.7% (48)
+Creighton: 47.4% (15)
+Creighton ↑ 33
+% points from 3: 
+N Dakota St: 41.3% (31)
+Creighton: 14.3% (9)
+Creighton ↑ 22
+Opponent 3 point %: 
+N Dakota St: 41.4% (283)
+Creighton: 14.3% (9)
+Creighton ↑ 274
+
+Creighton ↑ 747
+{747, 'Creighton'}
+_______________________________________________________
+
+
+#139 Drexel  at  #150 Winthrop
+
+Strength of Schedule:
+Drexel: 115
+Winthrop: 137
+Drexel ↑ 22
+
+Points per game: 
+Drexel: 61.0 (267)
+Winthrop: 56.0 (295)
+Drexel ↑ 28
+
+Opponent Points per game: 
+Drexel: 67.0 (106)
+Winthrop: 78.0 (206)
+Drexel ↑ 100
+
+Effective FG %: 
+Drexel: 44.8% (232)
+Winthrop: 39.4% (287)
+Drexel ↑ 55
+
+Opponent Effective FG %: 
+Drexel: 49.1% (151)
+Winthrop: 54.0% (233)
+Drexel ↑ 82
+
+Rebound Rate: 
+Drexel: 48.8% (186)
+Winthrop: 45.2% (258)
+Drexel ↑ 72
+
+3 point statistics: 
+3 point %: 
+Drexel: 23.5% (280)
+Winthrop: 27.8% (227)
+Winthrop ↑ 53
+% points from 3: 
+Drexel: 19.7% (288)
+Winthrop: 40.6% (278)
+Winthrop ↑ 10
+Opponent 3 point %: 
+Drexel: 40.0% (270)
+Winthrop: 40.6% (278)
+Drexel ↑ 8
+
+Drexel ↑ 359
+{'Drexel', 359}
+_______________________________________________________
+
+
+#224 WI-Milwkee  at  #50 Providence
+
+Strength of Schedule:
+WI-Milwkee: 351
+Providence: 251
+Providence ↑ 100
+
+Points per game: 
+WI-Milwkee: -- (332)
+Providence: 78.0 (104)
+Providence ↑ 228
+
+Opponent Points per game: 
+WI-Milwkee: -- (332)
+Providence: 59.0 (39)
+Providence ↑ 293
+
+Effective FG %: 
+WI-Milwkee: -- (332)
+Providence: 54.2% (101)
+Providence ↑ 231
+
+Opponent Effective FG %: 
+WI-Milwkee: -- (332)
+Providence: 33.8% (8)
+Providence ↑ 324
+
+Rebound Rate: 
+WI-Milwkee: -- (332)
+Providence: 50.6% (152)
+Providence ↑ 180
+
+3 point statistics: 
+3 point %: 
+WI-Milwkee: -- (332)
+Providence: 26.1% (252)
+Providence ↑ 80
+% points from 3: 
+WI-Milwkee: -- (332)
+Providence: 23.1% (47)
+Providence ↑ 285
+Opponent 3 point %: 
+WI-Milwkee: -- (332)
+Providence: 23.1% (47)
+Providence ↑ 285
+
+Providence ↑ 1356
+{'Providence', 1356}
+_______________________________________________________
+
+
+#135 NC-Wilmgton  at  #176 NC-Asheville
+
+Strength of Schedule:
+NC-Wilmgton: 337
+NC-Asheville: 6
+NC-Asheville ↑ 331
+
+Points per game: 
+NC-Wilmgton: -- (332)
+NC-Asheville: 74.0 (148)
+NC-Asheville ↑ 184
+
+Opponent Points per game: 
+NC-Wilmgton: -- (332)
+NC-Asheville: 99.0 (320)
+NC-Asheville ↑ 12
+
+Effective FG %: 
+NC-Wilmgton: -- (332)
+NC-Asheville: 49.1% (175)
+NC-Asheville ↑ 157
+
+Opponent Effective FG %: 
+NC-Wilmgton: -- (332)
+NC-Asheville: 65.7% (327)
+NC-Asheville ↑ 5
+
+Rebound Rate: 
+NC-Wilmgton: -- (332)
+NC-Asheville: 43.1% (279)
+NC-Asheville ↑ 53
+
+3 point statistics: 
+3 point %: 
+NC-Wilmgton: -- (332)
+NC-Asheville: 40.0% (50)
+NC-Asheville ↑ 282
+% points from 3: 
+NC-Wilmgton: -- (332)
+NC-Asheville: 46.2% (310)
+NC-Asheville ↑ 22
+Opponent 3 point %: 
+NC-Wilmgton: -- (332)
+NC-Asheville: 46.2% (310)
+NC-Asheville ↑ 22
+
+NC-Asheville ↑ 742
+{'NC-Asheville', 742}
+_______________________________________________________
+
+
+#146 Lg Beach St  at  #167 DePaul
+
+Strength of Schedule:
+Lg Beach St: 108
+DePaul: 187
+Lg Beach St ↑ 79
+
+Points per game: 
+Lg Beach St: 73.0 (155)
+DePaul: 74.0 (148)
+DePaul ↑ 7
+
+Opponent Points per game: 
+Lg Beach St: 78.0 (206)
+DePaul: 82.0 (243)
+Lg Beach St ↑ 37
+
+Effective FG %: 
+Lg Beach St: 42.0% (266)
+DePaul: 56.9% (63)
+DePaul ↑ 203
+
+Opponent Effective FG %: 
+Lg Beach St: 50.0% (165)
+DePaul: 51.6% (194)
+Lg Beach St ↑ 29
+
+Rebound Rate: 
+Lg Beach St: 48.4% (195)
+DePaul: 54.8% (68)
+DePaul ↑ 127
+
+3 point statistics: 
+3 point %: 
+Lg Beach St: 27.6% (229)
+DePaul: 34.8% (126)
+DePaul ↑ 103
+% points from 3: 
+Lg Beach St: 32.9% (123)
+DePaul: 50.0% (317)
+Lg Beach St ↑ 194
+Opponent 3 point %: 
+Lg Beach St: 23.3% (49)
+DePaul: 50.0% (317)
+Lg Beach St ↑ 268
+
+DePaul ↑ 192
+{192, 'DePaul'}
+_______________________________________________________
+
+
+#201 Stetson  at  #112 UNLV
+
+Strength of Schedule:
+Stetson: 346
+UNLV: 238
+UNLV ↑ 108
+
+Points per game: 
+Stetson: -- (332)
+UNLV: 71.0 (179)
+UNLV ↑ 153
+
+Opponent Points per game: 
+Stetson: -- (332)
+UNLV: 85.0 (264)
+UNLV ↑ 68
+
+Effective FG %: 
+Stetson: -- (332)
+UNLV: 50.9% (137)
+UNLV ↑ 195
+
+Opponent Effective FG %: 
+Stetson: -- (332)
+UNLV: 65.8% (328)
+UNLV ↑ 4
+
+Rebound Rate: 
+Stetson: -- (332)
+UNLV: 50.8% (143)
+UNLV ↑ 189
+
+3 point statistics: 
+3 point %: 
+Stetson: -- (332)
+UNLV: 31.0% (195)
+UNLV ↑ 137
+% points from 3: 
+Stetson: -- (332)
+UNLV: 61.1% (331)
+UNLV ↑ 1
+Opponent 3 point %: 
+Stetson: -- (332)
+UNLV: 61.1% (331)
+UNLV ↑ 1
+
+UNLV ↑ 717
+{'UNLV', 717}
+_______________________________________________________
+
+
+#154 Cornell  at  #179 Fordham
+
+Strength of Schedule:
+Cornell: 249
+Fordham: 247
+Fordham ↑ 2
+
+Points per game: 
+Cornell: 84.0 (63)
+Fordham: 68.0 (210)
+Cornell ↑ 147
+
+Opponent Points per game: 
+Cornell: 78.0 (206)
+Fordham: 64.0 (78)
+Fordham ↑ 128
+
+Effective FG %: 
+Cornell: 55.3% (84)
+Fordham: 49.2% (171)
+Cornell ↑ 87
+
+Opponent Effective FG %: 
+Cornell: 50.8% (181)
+Fordham: 41.9% (64)
+Fordham ↑ 117
+
+Rebound Rate: 
+Cornell: 47.8% (210)
+Fordham: 52.7% (107)
+Fordham ↑ 103
+
+3 point statistics: 
+3 point %: 
+Cornell: 36.7% (94)
+Fordham: 29.6% (209)
+Cornell ↑ 115
+% points from 3: 
+Cornell: 39.3% (45)
+Fordham: 23.5% (50)
+Cornell ↑ 5
+Opponent 3 point %: 
+Cornell: 24.1% (59)
+Fordham: 23.5% (50)
+Fordham ↑ 9
+
+Fordham ↑ 116
+{'Fordham', 116}
+_______________________________________________________
+
+
+#172 Arkansas St  at  #162 Bowling Grn
+
+Strength of Schedule:
+Arkansas St: 3
+Bowling Grn: 309
+Arkansas St ↑ 306
+
+Points per game: 
+Arkansas St: 76.0 (124)
+Bowling Grn: 70.0 (195)
+Arkansas St ↑ 71
+
+Opponent Points per game: 
+Arkansas St: 105.0 (326)
+Bowling Grn: 41.0 (2)
+Bowling Grn ↑ 324
+
+Effective FG %: 
+Arkansas St: 44.1% (241)
+Bowling Grn: 50.0% (156)
+Bowling Grn ↑ 85
+
+Opponent Effective FG %: 
+Arkansas St: 70.0% (329)
+Bowling Grn: 28.6% (2)
+Bowling Grn ↑ 327
+
+Rebound Rate: 
+Arkansas St: 45.5% (253)
+Bowling Grn: 51.5% (130)
+Bowling Grn ↑ 123
+
+3 point statistics: 
+3 point %: 
+Arkansas St: 19.0% (310)
+Bowling Grn: 25.0% (260)
+Bowling Grn ↑ 50
+% points from 3: 
+Arkansas St: 15.8% (305)
+Bowling Grn: 25.0% (64)
+Bowling Grn ↑ 241
+Opponent 3 point %: 
+Arkansas St: 50.0% (317)
+Bowling Grn: 25.0% (64)
+Bowling Grn ↑ 253
+
+Bowling Grn ↑ 482
+{482, 'Bowling Grn'}
+_______________________________________________________
+
+
+#170 W Carolina  at  #175 Notre Dame
+
+Strength of Schedule:
+W Carolina: 344
+Notre Dame: 243
+Notre Dame ↑ 101
+
+Points per game: 
+W Carolina: -- (332)
+Notre Dame: 70.0 (195)
+Notre Dame ↑ 137
+
+Opponent Points per game: 
+W Carolina: -- (332)
+Notre Dame: 63.0 (70)
+Notre Dame ↑ 262
+
+Effective FG %: 
+W Carolina: -- (332)
+Notre Dame: 53.8% (108)
+Notre Dame ↑ 224
+
+Opponent Effective FG %: 
+W Carolina: -- (332)
+Notre Dame: 48.3% (135)
+Notre Dame ↑ 197
+
+Rebound Rate: 
+W Carolina: -- (332)
+Notre Dame: 54.4% (75)
+Notre Dame ↑ 257
+
+3 point statistics: 
+3 point %: 
+W Carolina: -- (332)
+Notre Dame: 17.6% (315)
+Notre Dame ↑ 17
+% points from 3: 
+W Carolina: -- (332)
+Notre Dame: 41.2% (281)
+Notre Dame ↑ 51
+Opponent 3 point %: 
+W Carolina: -- (332)
+Notre Dame: 41.2% (281)
+Notre Dame ↑ 51
+
+Notre Dame ↑ 1178
+{1178, 'Notre Dame'}
+_______________________________________________________
+
+
+#267 TX A&M-CC  at  #5 Houston
+
+Strength of Schedule:
+TX A&M-CC: 358
+Houston: 204
+Houston ↑ 154
+
+Points per game: 
+TX A&M-CC: -- (332)
+Houston: 84.0 (63)
+Houston ↑ 269
+
+Opponent Points per game: 
+TX A&M-CC: -- (332)
+Houston: 31.0 (1)
+Houston ↑ 331
+
+Effective FG %: 
+TX A&M-CC: -- (332)
+Houston: 51.6% (130)
+Houston ↑ 202
+
+Opponent Effective FG %: 
+TX A&M-CC: -- (332)
+Houston: 32.1% (4)
+Houston ↑ 328
+
+Rebound Rate: 
+TX A&M-CC: -- (332)
+Houston: 61.2% (16)
+Houston ↑ 316
+
+3 point statistics: 
+3 point %: 
+TX A&M-CC: -- (332)
+Houston: 31.4% (186)
+Houston ↑ 146
+% points from 3: 
+TX A&M-CC: -- (332)
+Houston: 18.8% (27)
+Houston ↑ 305
+Opponent 3 point %: 
+TX A&M-CC: -- (332)
+Houston: 18.8% (27)
+Houston ↑ 305
+
+Houston ↑ 1600
+{1600, 'Houston'}
+_______________________________________________________
+
+
+#213 N Mex State  at  #127 UC Irvine
+
+Strength of Schedule:
+N Mex State: 158
+UC Irvine: 95
+UC Irvine ↑ 63
+
+Points per game: 
+N Mex State: 46.0 (328)
+UC Irvine: 64.0 (245)
+UC Irvine ↑ 83
+
+Opponent Points per game: 
+N Mex State: 86.0 (270)
+UC Irvine: 72.0 (158)
+UC Irvine ↑ 112
+
+Effective FG %: 
+N Mex State: 36.6% (311)
+UC Irvine: 43.6% (248)
+UC Irvine ↑ 63
+
+Opponent Effective FG %: 
+N Mex State: 56.2% (260)
+UC Irvine: 53.0% (218)
+UC Irvine ↑ 42
+
+Rebound Rate: 
+N Mex State: 42.7% (282)
+UC Irvine: 50.8% (143)
+UC Irvine ↑ 139
+
+3 point statistics: 
+3 point %: 
+N Mex State: 21.7% (292)
+UC Irvine: 16.7% (318)
+N Mex State ↑ 26
+% points from 3: 
+N Mex State: 32.6% (124)
+UC Irvine: 33.3% (171)
+N Mex State ↑ 47
+Opponent 3 point %: 
+N Mex State: 31.0% (143)
+UC Irvine: 33.3% (171)
+N Mex State ↑ 28
+
+UC Irvine ↑ 502
+{'UC Irvine', 502}
+_______________________________________________________
+
+
+#228 Illinois St  at  #126 Saint Louis
+
+Strength of Schedule:
+Illinois St: 352
+Saint Louis: 318
+Saint Louis ↑ 34
+
+Points per game: 
+Illinois St: -- (332)
+Saint Louis: 75.0 (135)
+Saint Louis ↑ 197
+
+Opponent Points per game: 
+Illinois St: -- (332)
+Saint Louis: 63.0 (70)
+Saint Louis ↑ 262
+
+Effective FG %: 
+Illinois St: -- (332)
+Saint Louis: 43.2% (252)
+Saint Louis ↑ 80
+
+Opponent Effective FG %: 
+Illinois St: -- (332)
+Saint Louis: 44.6% (91)
+Saint Louis ↑ 241
+
+Rebound Rate: 
+Illinois St: -- (332)
+Saint Louis: 52.2% (118)
+Saint Louis ↑ 214
+
+3 point statistics: 
+3 point %: 
+Illinois St: -- (332)
+Saint Louis: 42.9% (31)
+Saint Louis ↑ 301
+% points from 3: 
+Illinois St: -- (332)
+Saint Louis: 22.2% (42)
+Saint Louis ↑ 290
+Opponent 3 point %: 
+Illinois St: -- (332)
+Saint Louis: 22.2% (42)
+Saint Louis ↑ 290
+
+Saint Louis ↑ 1028
+{1028, 'Saint Louis'}
+_______________________________________________________
+
+
+#279 TN Martin  at  #28 Miss State
+
+Strength of Schedule:
+TN Martin: 360
+Miss State: 50
+Miss State ↑ 310
+
+Points per game: 
+TN Martin: -- (332)
+Miss State: 71.0 (179)
+Miss State ↑ 153
+
+Opponent Points per game: 
+TN Martin: -- (332)
+Miss State: 56.0 (25)
+Miss State ↑ 307
+
+Effective FG %: 
+TN Martin: -- (332)
+Miss State: 49.1% (175)
+Miss State ↑ 157
+
+Opponent Effective FG %: 
+TN Martin: -- (332)
+Miss State: 36.8% (24)
+Miss State ↑ 308
+
+Rebound Rate: 
+TN Martin: -- (332)
+Miss State: 58.7% (32)
+Miss State ↑ 300
+
+3 point statistics: 
+3 point %: 
+TN Martin: -- (332)
+Miss State: 38.5% (75)
+Miss State ↑ 257
+% points from 3: 
+TN Martin: -- (332)
+Miss State: 23.8% (55)
+Miss State ↑ 277
+Opponent 3 point %: 
+TN Martin: -- (332)
+Miss State: 23.8% (55)
+Miss State ↑ 277
+
+Miss State ↑ 1535
+{'Miss State', 1535}
+_______________________________________________________
+
+
+#260 Canisius  at  #84 St Bonavent
+
+Strength of Schedule:
+Canisius: 70
+St Bonavent: 178
+Canisius ↑ 108
+
+Points per game: 
+Canisius: 77.0 (114)
+St Bonavent: 73.0 (155)
+Canisius ↑ 41
+
+Opponent Points per game: 
+Canisius: 89.0 (287)
+St Bonavent: 69.0 (129)
+St Bonavent ↑ 158
+
+Effective FG %: 
+Canisius: 56.3% (69)
+St Bonavent: 55.1% (88)
+Canisius ↑ 19
+
+Opponent Effective FG %: 
+Canisius: 59.2% (287)
+St Bonavent: 41.8% (62)
+St Bonavent ↑ 225
+
+Rebound Rate: 
+Canisius: 50.0% (157)
+St Bonavent: 38.3% (316)
+Canisius ↑ 159
+
+3 point statistics: 
+3 point %: 
+Canisius: 45.5% (22)
+St Bonavent: 35.5% (110)
+Canisius ↑ 88
+% points from 3: 
+Canisius: 39.0% (51)
+St Bonavent: 17.6% (22)
+St Bonavent ↑ 29
+Opponent 3 point %: 
+Canisius: 36.8% (239)
+St Bonavent: 17.6% (22)
+St Bonavent ↑ 217
+
+St Bonavent ↑ 56
+{56, 'St Bonavent'}
+_______________________________________________________
+
+
+#234 Montana St  at  #133 Seattle
+
+Strength of Schedule:
+Montana St: 354
+Seattle: 284
+Seattle ↑ 70
+
+Points per game: 
+Montana St: -- (332)
+Seattle: 71.0 (179)
+Seattle ↑ 153
+
+Opponent Points per game: 
+Montana St: -- (332)
+Seattle: 60.0 (47)
+Seattle ↑ 285
+
+Effective FG %: 
+Montana St: -- (332)
+Seattle: 49.0% (178)
+Seattle ↑ 154
+
+Opponent Effective FG %: 
+Montana St: -- (332)
+Seattle: 31.9% (3)
+Seattle ↑ 329
+
+Rebound Rate: 
+Montana St: -- (332)
+Seattle: 52.4% (114)
+Seattle ↑ 218
+
+3 point statistics: 
+3 point %: 
+Montana St: -- (332)
+Seattle: 37.5% (86)
+Seattle ↑ 246
+% points from 3: 
+Montana St: -- (332)
+Seattle: 18.2% (24)
+Seattle ↑ 308
+Opponent 3 point %: 
+Montana St: -- (332)
+Seattle: 18.2% (24)
+Seattle ↑ 308
+
+Seattle ↑ 1209
+{'Seattle', 1209}
+_______________________________________________________
+
+
+#145 App State  at  #239 N Illinois
+
+Strength of Schedule:
+App State: 340
+N Illinois: 2
+N Illinois ↑ 338
+
+Points per game: 
+App State: -- (332)
+N Illinois: 70.0 (195)
+N Illinois ↑ 137
+
+Opponent Points per game: 
+App State: -- (332)
+N Illinois: 92.0 (296)
+N Illinois ↑ 36
+
+Effective FG %: 
+App State: -- (332)
+N Illinois: 42.1% (265)
+N Illinois ↑ 67
+
+Opponent Effective FG %: 
+App State: -- (332)
+N Illinois: 59.0% (284)
+N Illinois ↑ 48
+
+Rebound Rate: 
+App State: -- (332)
+N Illinois: 48.3% (197)
+N Illinois ↑ 135
+
+3 point statistics: 
+3 point %: 
+App State: -- (332)
+N Illinois: 26.9% (239)
+N Illinois ↑ 93
+% points from 3: 
+App State: -- (332)
+N Illinois: 36.0% (228)
+N Illinois ↑ 104
+Opponent 3 point %: 
+App State: -- (332)
+N Illinois: 36.0% (228)
+N Illinois ↑ 104
+
+N Illinois ↑ 761
+{761, 'N Illinois'}
+_______________________________________________________
+
+
+#261 Siena  at  #111 Richmond
+
+Strength of Schedule:
+Siena: 296
+Richmond: 294
+Richmond ↑ 2
+
+Points per game: 
+Siena: 73.0 (155)
+Richmond: 93.0 (23)
+Richmond ↑ 132
+
+Opponent Points per game: 
+Siena: 71.0 (146)
+Richmond: 75.0 (183)
+Siena ↑ 37
+
+Effective FG %: 
+Siena: 50.9% (141)
+Richmond: 54.8% (95)
+Richmond ↑ 46
+
+Opponent Effective FG %: 
+Siena: 61.8% (308)
+Richmond: 50.8% (180)
+Richmond ↑ 128
+
+Rebound Rate: 
+Siena: 48.6% (189)
+Richmond: 53.2% (101)
+Richmond ↑ 88
+
+3 point statistics: 
+3 point %: 
+Siena: 38.9% (72)
+Richmond: 35.1% (119)
+Siena ↑ 47
+% points from 3: 
+Siena: 28.8% (185)
+Richmond: 42.1% (286)
+Siena ↑ 101
+Opponent 3 point %: 
+Siena: 50.0% (317)
+Richmond: 42.1% (286)
+Richmond ↑ 31
+
+Richmond ↑ 359
+{'Richmond', 359}
+_______________________________________________________
+
+
+#280 TX Southern  at  #77 Arizona St
+
+Strength of Schedule:
+TX Southern: 24
+Arizona St: 12
+Arizona St ↑ 12
+
+Points per game: 
+TX Southern: 55.0 (301)
+Arizona St: 56.0 (295)
+Arizona St ↑ 6
+
+Opponent Points per game: 
+TX Southern: 92.0 (296)
+Arizona St: 71.0 (146)
+Arizona St ↑ 150
+
+Effective FG %: 
+TX Southern: 33.1% (325)
+Arizona St: 36.8% (309)
+Arizona St ↑ 16
+
+Opponent Effective FG %: 
+TX Southern: 52.2% (206)
+Arizona St: 49.1% (150)
+Arizona St ↑ 56
+
+Rebound Rate: 
+TX Southern: 40.2% (308)
+Arizona St: 41.3% (300)
+Arizona St ↑ 8
+
+3 point statistics: 
+3 point %: 
+TX Southern: 20.8% (301)
+Arizona St: 23.8% (275)
+Arizona St ↑ 26
+% points from 3: 
+TX Southern: 27.3% (197)
+Arizona St: 38.5% (256)
+TX Southern ↑ 59
+Opponent 3 point %: 
+TX Southern: 43.5% (294)
+Arizona St: 38.5% (256)
+Arizona St ↑ 38
+
+Arizona St ↑ 248
+{248, 'Arizona St'}
+_______________________________________________________
+
+
+#210 Old Dominion  at  #192 Ball St
+
+Strength of Schedule:
+Old Dominion: 349
+Ball St: 345
+Ball St ↑ 4
+
+Points per game: 
+Old Dominion: -- (332)
+Ball St: -- (332)
+Old Dominion ↑ 0
+
+Opponent Points per game: 
+Old Dominion: -- (332)
+Ball St: -- (332)
+Old Dominion ↑ 0
+
+Effective FG %: 
+Old Dominion: -- (332)
+Ball St: -- (332)
+Old Dominion ↑ 0
+
+Opponent Effective FG %: 
+Old Dominion: -- (332)
+Ball St: -- (332)
+Old Dominion ↑ 0
+
+Rebound Rate: 
+Old Dominion: -- (332)
+Ball St: -- (332)
+Old Dominion ↑ 0
+
+3 point statistics: 
+3 point %: 
+Old Dominion: -- (332)
+Ball St: -- (332)
+Old Dominion ↑ 0
+% points from 3: 
+Old Dominion: -- (332)
+Ball St: -- (332)
+Old Dominion ↑ 0
+Opponent 3 point %: 
+Old Dominion: -- (332)
+Ball St: -- (332)
+Old Dominion ↑ 0
+
+Ball St ↑ 4
+{4, 'Ball St'}
+_______________________________________________________
+
+
+#255 Campbell  at  #142 E Carolina
+
+Strength of Schedule:
+Campbell: 267
+E Carolina: 339
+Campbell ↑ 72
+
+Points per game: 
+Campbell: 59.0 (280)
+E Carolina: -- (332)
+Campbell ↑ 52
+
+Opponent Points per game: 
+Campbell: 48.0 (7)
+E Carolina: -- (332)
+Campbell ↑ 325
+
+Effective FG %: 
+Campbell: 55.0% (91)
+E Carolina: -- (332)
+Campbell ↑ 241
+
+Opponent Effective FG %: 
+Campbell: 37.5% (26)
+E Carolina: -- (332)
+Campbell ↑ 306
+
+Rebound Rate: 
+Campbell: 58.6% (34)
+E Carolina: -- (332)
+Campbell ↑ 298
+
+3 point statistics: 
+3 point %: 
+Campbell: 22.2% (287)
+E Carolina: -- (332)
+Campbell ↑ 45
+% points from 3: 
+Campbell: 10.2% (326)
+E Carolina: -- (332)
+Campbell ↑ 6
+Opponent 3 point %: 
+Campbell: 18.2% (24)
+E Carolina: -- (332)
+Campbell ↑ 308
+
+Campbell ↑ 1294
+{'Campbell', 1294}
+_______________________________________________________
+
+
+#295 F Dickinson  at  #72 Seton Hall
+
+Strength of Schedule:
+F Dickinson: 297
+Seton Hall: 235
+Seton Hall ↑ 62
+
+Points per game: 
+F Dickinson: 92.0 (28)
+Seton Hall: 70.0 (195)
+F Dickinson ↑ 167
+
+Opponent Points per game: 
+F Dickinson: 86.0 (270)
+Seton Hall: 59.0 (39)
+Seton Hall ↑ 231
+
+Effective FG %: 
+F Dickinson: 54.8% (95)
+Seton Hall: 57.1% (57)
+Seton Hall ↑ 38
+
+Opponent Effective FG %: 
+F Dickinson: 49.3% (161)
+Seton Hall: 50.0% (165)
+F Dickinson ↑ 4
+
+Rebound Rate: 
+F Dickinson: 42.1% (292)
+Seton Hall: 47.5% (216)
+Seton Hall ↑ 76
+
+3 point statistics: 
+3 point %: 
+F Dickinson: 39.1% (69)
+Seton Hall: 42.9% (31)
+Seton Hall ↑ 38
+% points from 3: 
+F Dickinson: 29.3% (175)
+Seton Hall: 33.3% (171)
+Seton Hall ↑ 4
+Opponent 3 point %: 
+F Dickinson: 35.5% (222)
+Seton Hall: 33.3% (171)
+Seton Hall ↑ 51
+
+Seton Hall ↑ 236
+{236, 'Seton Hall'}
+_______________________________________________________
+
+
+#297 E Illinois  at  #97 Loyola-Chi
+
+Strength of Schedule:
+E Illinois: 240
+Loyola-Chi: 13
+Loyola-Chi ↑ 227
+
+Points per game: 
+E Illinois: 52.0 (312)
+Loyola-Chi: 62.0 (261)
+Loyola-Chi ↑ 51
+
+Opponent Points per game: 
+E Illinois: 80.0 (232)
+Loyola-Chi: 75.0 (183)
+Loyola-Chi ↑ 49
+
+Effective FG %: 
+E Illinois: 31.9% (329)
+Loyola-Chi: 49.0% (178)
+Loyola-Chi ↑ 151
+
+Opponent Effective FG %: 
+E Illinois: 58.6% (282)
+Loyola-Chi: 53.6% (225)
+Loyola-Chi ↑ 57
+
+Rebound Rate: 
+E Illinois: 46.0% (244)
+Loyola-Chi: 48.4% (192)
+Loyola-Chi ↑ 52
+
+3 point statistics: 
+3 point %: 
+E Illinois: 36.4% (97)
+Loyola-Chi: 35.3% (114)
+E Illinois ↑ 17
+% points from 3: 
+E Illinois: 23.1% (249)
+Loyola-Chi: 34.8% (204)
+Loyola-Chi ↑ 45
+Opponent 3 point %: 
+E Illinois: 31.3% (146)
+Loyola-Chi: 34.8% (204)
+E Illinois ↑ 58
+
+Loyola-Chi ↑ 587
+{587, 'Loyola-Chi'}
+_______________________________________________________
+
+
+#246 Wm & Mary  at  #173 Geo Wshgtn
+
+Strength of Schedule:
+Wm & Mary: 319
+Geo Wshgtn: 311
+Geo Wshgtn ↑ 8
+
+Points per game: 
+Wm & Mary: 75.0 (135)
+Geo Wshgtn: 89.0 (39)
+Geo Wshgtn ↑ 96
+
+Opponent Points per game: 
+Wm & Mary: 56.0 (25)
+Geo Wshgtn: 44.0 (3)
+Geo Wshgtn ↑ 22
+
+Effective FG %: 
+Wm & Mary: 56.7% (65)
+Geo Wshgtn: 62.3% (12)
+Geo Wshgtn ↑ 53
+
+Opponent Effective FG %: 
+Wm & Mary: 40.8% (50)
+Geo Wshgtn: 25.0% (1)
+Geo Wshgtn ↑ 49
+
+Rebound Rate: 
+Wm & Mary: 51.5% (131)
+Geo Wshgtn: 52.9% (105)
+Geo Wshgtn ↑ 26
+
+3 point statistics: 
+3 point %: 
+Wm & Mary: 35.0% (122)
+Geo Wshgtn: 41.7% (37)
+Geo Wshgtn ↑ 85
+% points from 3: 
+Wm & Mary: 28.0% (192)
+Geo Wshgtn: 15.2% (13)
+Geo Wshgtn ↑ 179
+Opponent 3 point %: 
+Wm & Mary: 18.5% (26)
+Geo Wshgtn: 15.2% (13)
+Geo Wshgtn ↑ 13
+
+Geo Wshgtn ↑ 254
+{'Geo Wshgtn', 254}
+_______________________________________________________
+
+
+#289 Neb Omaha  at  #107 North Texas
+
+Strength of Schedule:
+Neb Omaha: 236
+North Texas: 129
+North Texas ↑ 107
+
+Points per game: 
+Neb Omaha: 60.0 (274)
+North Texas: 83.0 (71)
+North Texas ↑ 203
+
+Opponent Points per game: 
+Neb Omaha: 82.0 (243)
+North Texas: 77.0 (200)
+North Texas ↑ 43
+
+Effective FG %: 
+Neb Omaha: 44.6% (237)
+North Texas: 57.0% (61)
+North Texas ↑ 176
+
+Opponent Effective FG %: 
+Neb Omaha: 51.4% (188)
+North Texas: 51.5% (189)
+Neb Omaha ↑ 1
+
+Rebound Rate: 
+Neb Omaha: 32.5% (329)
+North Texas: 50.0% (157)
+North Texas ↑ 172
+
+3 point statistics: 
+3 point %: 
+Neb Omaha: 33.3% (146)
+North Texas: 50.0% (6)
+North Texas ↑ 140
+% points from 3: 
+Neb Omaha: 30.0% (165)
+North Texas: 34.8% (204)
+Neb Omaha ↑ 39
+Opponent 3 point %: 
+Neb Omaha: 20.0% (31)
+North Texas: 34.8% (204)
+Neb Omaha ↑ 173
+
+North Texas ↑ 700
+{'North Texas', 700}
+_______________________________________________________
+
+
+#225 Northeastrn  at  #204 La Salle
+
+Strength of Schedule:
+Northeastrn: 276
+La Salle: 148
+La Salle ↑ 128
+
+Points per game: 
+Northeastrn: 67.0 (218)
+La Salle: 67.0 (218)
+Northeastrn ↑ 0
+
+Opponent Points per game: 
+Northeastrn: 58.0 (35)
+La Salle: 61.0 (55)
+Northeastrn ↑ 20
+
+Effective FG %: 
+Northeastrn: 49.1% (177)
+La Salle: 49.1% (173)
+La Salle ↑ 4
+
+Opponent Effective FG %: 
+Northeastrn: 48.2% (134)
+La Salle: 44.8% (96)
+La Salle ↑ 38
+
+Rebound Rate: 
+Northeastrn: 48.1% (202)
+La Salle: 51.2% (136)
+La Salle ↑ 66
+
+3 point statistics: 
+3 point %: 
+Northeastrn: 31.6% (185)
+La Salle: 40.0% (50)
+La Salle ↑ 135
+% points from 3: 
+Northeastrn: 26.9% (202)
+La Salle: 23.5% (50)
+La Salle ↑ 152
+Opponent 3 point %: 
+Northeastrn: 37.5% (246)
+La Salle: 23.5% (50)
+La Salle ↑ 196
+
+La Salle ↑ 216
+{216, 'La Salle'}
+_______________________________________________________
+
+
+#184 Texas St  at  #259 Miami (OH)
+
+Strength of Schedule:
+Texas St: 165
+Miami (OH): 180
+Texas St ↑ 15
+
+Points per game: 
+Texas St: 66.0 (227)
+Miami (OH): 64.0 (245)
+Texas St ↑ 18
+
+Opponent Points per game: 
+Texas St: 71.0 (146)
+Miami (OH): 72.0 (158)
+Texas St ↑ 12
+
+Effective FG %: 
+Texas St: 42.7% (255)
+Miami (OH): 57.7% (53)
+Miami (OH) ↑ 202
+
+Opponent Effective FG %: 
+Texas St: 41.5% (57)
+Miami (OH): 50.0% (165)
+Texas St ↑ 108
+
+Rebound Rate: 
+Texas St: 64.4% (3)
+Miami (OH): 51.6% (128)
+Texas St ↑ 125
+
+3 point statistics: 
+3 point %: 
+Texas St: 21.7% (292)
+Miami (OH): 50.0% (6)
+Miami (OH) ↑ 286
+% points from 3: 
+Texas St: 22.7% (256)
+Miami (OH): 33.3% (171)
+Miami (OH) ↑ 85
+Opponent 3 point %: 
+Texas St: 27.8% (88)
+Miami (OH): 33.3% (171)
+Texas St ↑ 83
+
+Texas St ↑ 76
+{'Texas St', 76}
+_______________________________________________________
+
+
+#318 Holy Cross  at  #91 Georgetown
+
+Strength of Schedule:
+Holy Cross: 163
+Georgetown: 326
+Holy Cross ↑ 163
+
+Points per game: 
+Holy Cross: 71.0 (179)
+Georgetown: 94.0 (17)
+Georgetown ↑ 162
+
+Opponent Points per game: 
+Holy Cross: 73.0 (164)
+Georgetown: 57.0 (32)
+Georgetown ↑ 132
+
+Effective FG %: 
+Holy Cross: 61.8% (16)
+Georgetown: 65.6% (4)
+Georgetown ↑ 12
+
+Opponent Effective FG %: 
+Holy Cross: 50.9% (184)
+Georgetown: 37.7% (28)
+Georgetown ↑ 156
+
+Rebound Rate: 
+Holy Cross: 51.4% (132)
+Georgetown: 64.3% (4)
+Georgetown ↑ 128
+
+3 point statistics: 
+3 point %: 
+Holy Cross: 50.0% (6)
+Georgetown: 37.0% (90)
+Holy Cross ↑ 84
+% points from 3: 
+Holy Cross: 42.3% (25)
+Georgetown: 22.6% (45)
+Holy Cross ↑ 20
+Opponent 3 point %: 
+Holy Cross: 38.9% (263)
+Georgetown: 22.6% (45)
+Georgetown ↑ 218
+
+Georgetown ↑ 427
+{'Georgetown', 427}
+_______________________________________________________
+
+
+#346 Stonehill  at  #6 Connecticut
+
+Strength of Schedule:
+Stonehill: 242
+Connecticut: 223
+Connecticut ↑ 19
+
+Points per game: 
+Stonehill: 50.5 (323)
+Connecticut: 95.0 (12)
+Connecticut ↑ 311
+
+Opponent Points per game: 
+Stonehill: 66.5 (104)
+Connecticut: 52.0 (11)
+Connecticut ↑ 93
+
+Effective FG %: 
+Stonehill: 37.9% (300)
+Connecticut: 62.3% (13)
+Connecticut ↑ 287
+
+Opponent Effective FG %: 
+Stonehill: 45.5% (101)
+Connecticut: 36.4% (21)
+Connecticut ↑ 80
+
+Rebound Rate: 
+Stonehill: 45.9% (249)
+Connecticut: 63.6% (6)
+Connecticut ↑ 243
+
+3 point statistics: 
+3 point %: 
+Stonehill: 25.5% (259)
+Connecticut: 28.0% (224)
+Connecticut ↑ 35
+% points from 3: 
+Stonehill: 38.6% (54)
+Connecticut: 20.0% (31)
+Connecticut ↑ 23
+Opponent 3 point %: 
+Stonehill: 29.9% (127)
+Connecticut: 20.0% (31)
+Connecticut ↑ 96
+
+Connecticut ↑ 1033
+{1033, 'Connecticut'}
+_______________________________________________________
+
+
+#202 S Alabama  at  #266 Buffalo
+
+Strength of Schedule:
+S Alabama: 343
+Buffalo: 268
+Buffalo ↑ 75
+
+Points per game: 
+S Alabama: -- (332)
+Buffalo: 86.0 (53)
+Buffalo ↑ 279
+
+Opponent Points per game: 
+S Alabama: -- (332)
+Buffalo: 92.0 (296)
+Buffalo ↑ 36
+
+Effective FG %: 
+S Alabama: -- (332)
+Buffalo: 49.3% (167)
+Buffalo ↑ 165
+
+Opponent Effective FG %: 
+S Alabama: -- (332)
+Buffalo: 54.8% (240)
+Buffalo ↑ 92
+
+Rebound Rate: 
+S Alabama: -- (332)
+Buffalo: 57.9% (42)
+Buffalo ↑ 290
+
+3 point statistics: 
+3 point %: 
+S Alabama: -- (332)
+Buffalo: 35.5% (110)
+Buffalo ↑ 222
+% points from 3: 
+S Alabama: -- (332)
+Buffalo: 39.1% (265)
+Buffalo ↑ 67
+Opponent 3 point %: 
+S Alabama: -- (332)
+Buffalo: 39.1% (265)
+Buffalo ↑ 67
+
+Buffalo ↑ 937
+{937, 'Buffalo'}
+_______________________________________________________
+
+
+#245 Utah Tech  at  #229 Jksnville St
+
+Strength of Schedule:
+Utah Tech: 86
+Jksnville St: 353
+Utah Tech ↑ 267
+
+Points per game: 
+Utah Tech: 69.0 (205)
+Jksnville St: -- (332)
+Utah Tech ↑ 127
+
+Opponent Points per game: 
+Utah Tech: 77.0 (200)
+Jksnville St: -- (332)
+Utah Tech ↑ 132
+
+Effective FG %: 
+Utah Tech: 41.4% (273)
+Jksnville St: -- (332)
+Utah Tech ↑ 59
+
+Opponent Effective FG %: 
+Utah Tech: 55.6% (251)
+Jksnville St: -- (332)
+Utah Tech ↑ 81
+
+Rebound Rate: 
+Utah Tech: 45.3% (257)
+Jksnville St: -- (332)
+Utah Tech ↑ 75
+
+3 point statistics: 
+3 point %: 
+Utah Tech: 23.8% (275)
+Jksnville St: -- (332)
+Utah Tech ↑ 57
+% points from 3: 
+Utah Tech: 21.7% (264)
+Jksnville St: -- (332)
+Utah Tech ↑ 68
+Opponent 3 point %: 
+Utah Tech: 29.6% (124)
+Jksnville St: -- (332)
+Utah Tech ↑ 208
+
+Utah Tech ↑ 741
+{'Utah Tech', 741}
+_______________________________________________________
+
+
+#244 Marist  at  #233 Maryland BC
+
+Strength of Schedule:
+Marist: 237
+Maryland BC: 113
+Maryland BC ↑ 124
+
+Points per game: 
+Marist: 71.0 (179)
+Maryland BC: 93.0 (23)
+Maryland BC ↑ 156
+
+Opponent Points per game: 
+Marist: 55.0 (21)
+Maryland BC: 94.0 (309)
+Marist ↑ 288
+
+Effective FG %: 
+Marist: 55.4% (82)
+Maryland BC: 58.7% (45)
+Maryland BC ↑ 37
+
+Opponent Effective FG %: 
+Marist: 47.7% (129)
+Maryland BC: 51.5% (189)
+Marist ↑ 60
+
+Rebound Rate: 
+Marist: 48.4% (194)
+Maryland BC: 42.7% (282)
+Marist ↑ 88
+
+3 point statistics: 
+3 point %: 
+Marist: 35.3% (114)
+Maryland BC: 52.4% (3)
+Maryland BC ↑ 111
+% points from 3: 
+Marist: 25.4% (221)
+Maryland BC: 14.3% (9)
+Maryland BC ↑ 212
+Opponent 3 point %: 
+Marist: 38.1% (253)
+Maryland BC: 14.3% (9)
+Maryland BC ↑ 244
+
+Marist ↑ 119
+{'Marist', 119}
+_______________________________________________________
+
+
+#293 Loyola-MD  at  #181 Brown
+
+Strength of Schedule:
+Loyola-MD: 23
+Brown: 71
+Loyola-MD ↑ 48
+
+Points per game: 
+Loyola-MD: 73.0 (155)
+Brown: 70.0 (195)
+Loyola-MD ↑ 40
+
+Opponent Points per game: 
+Loyola-MD: 93.0 (302)
+Brown: 72.0 (158)
+Brown ↑ 144
+
+Effective FG %: 
+Loyola-MD: 53.4% (112)
+Brown: 49.2% (171)
+Loyola-MD ↑ 59
+
+Opponent Effective FG %: 
+Loyola-MD: 62.9% (315)
+Brown: 53.8% (230)
+Brown ↑ 85
+
+Rebound Rate: 
+Loyola-MD: 41.1% (302)
+Brown: 54.0% (81)
+Brown ↑ 221
+
+3 point statistics: 
+3 point %: 
+Loyola-MD: 34.6% (130)
+Brown: 34.5% (137)
+Loyola-MD ↑ 7
+% points from 3: 
+Loyola-MD: 37.0% (73)
+Brown: 33.3% (171)
+Loyola-MD ↑ 98
+Opponent 3 point %: 
+Loyola-MD: 37.5% (246)
+Brown: 33.3% (171)
+Brown ↑ 75
+
+Brown ↑ 303
+{'Brown', 303}
+_______________________________________________________
+
+
+#178 Georgia St  at  #319 W Michigan
+
+Strength of Schedule:
+Georgia St: 112
+W Michigan: 205
+Georgia St ↑ 93
+
+Points per game: 
+Georgia St: 87.0 (48)
+W Michigan: 76.0 (124)
+Georgia St ↑ 76
+
+Opponent Points per game: 
+Georgia St: 89.0 (287)
+W Michigan: 80.0 (232)
+W Michigan ↑ 55
+
+Effective FG %: 
+Georgia St: 52.0% (126)
+W Michigan: 51.5% (132)
+Georgia St ↑ 6
+
+Opponent Effective FG %: 
+Georgia St: 60.0% (292)
+W Michigan: 46.4% (113)
+W Michigan ↑ 179
+
+Rebound Rate: 
+Georgia St: 53.0% (104)
+W Michigan: 43.8% (271)
+Georgia St ↑ 167
+
+3 point statistics: 
+3 point %: 
+Georgia St: 36.8% (92)
+W Michigan: 41.4% (39)
+W Michigan ↑ 53
+% points from 3: 
+Georgia St: 24.1% (236)
+W Michigan: 40.7% (279)
+Georgia St ↑ 43
+Opponent 3 point %: 
+Georgia St: 40.0% (270)
+W Michigan: 40.7% (279)
+Georgia St ↑ 9
+
+Georgia St ↑ 108
+{108, 'Georgia St'}
+_______________________________________________________
+
+
+#271 San Diego  at  #242 UCSD
+
+Strength of Schedule:
+San Diego: 327
+UCSD: 264
+UCSD ↑ 63
+
+Points per game: 
+San Diego: 87.0 (48)
+UCSD: 95.0 (12)
+UCSD ↑ 36
+
+Opponent Points per game: 
+San Diego: 61.0 (55)
+UCSD: 87.0 (277)
+San Diego ↑ 222
+
+Effective FG %: 
+San Diego: 50.0% (156)
+UCSD: 59.2% (36)
+UCSD ↑ 120
+
+Opponent Effective FG %: 
+San Diego: 44.7% (94)
+UCSD: 43.7% (82)
+UCSD ↑ 12
+
+Rebound Rate: 
+San Diego: 57.8% (44)
+UCSD: 41.8% (295)
+San Diego ↑ 251
+
+3 point statistics: 
+3 point %: 
+San Diego: 37.9% (82)
+UCSD: 41.2% (42)
+UCSD ↑ 40
+% points from 3: 
+San Diego: 37.9% (63)
+UCSD: 33.3% (171)
+San Diego ↑ 108
+Opponent 3 point %: 
+San Diego: 33.3% (171)
+UCSD: 33.3% (171)
+San Diego ↑ 0
+
+San Diego ↑ 242
+{'San Diego', 242}
+_______________________________________________________
+
+
+#353 St Fran (PA)  at  #132 Santa Clara
+
+Strength of Schedule:
+St Fran (PA): 31
+Santa Clara: 229
+St Fran (PA) ↑ 198
+
+Points per game: 
+St Fran (PA): 48.0 (326)
+Santa Clara: 77.0 (114)
+Santa Clara ↑ 212
+
+Opponent Points per game: 
+St Fran (PA): 79.5 (228)
+Santa Clara: 69.0 (129)
+Santa Clara ↑ 99
+
+Effective FG %: 
+St Fran (PA): 39.9% (284)
+Santa Clara: 55.6% (77)
+Santa Clara ↑ 207
+
+Opponent Effective FG %: 
+St Fran (PA): 58.5% (280)
+Santa Clara: 41.4% (55)
+Santa Clara ↑ 225
+
+Rebound Rate: 
+St Fran (PA): 41.6% (297)
+Santa Clara: 54.7% (70)
+Santa Clara ↑ 227
+
+3 point statistics: 
+3 point %: 
+St Fran (PA): 21.2% (298)
+Santa Clara: 29.6% (209)
+Santa Clara ↑ 89
+% points from 3: 
+St Fran (PA): 21.9% (261)
+Santa Clara: 23.8% (55)
+Santa Clara ↑ 206
+Opponent 3 point %: 
+St Fran (PA): 35.5% (222)
+Santa Clara: 23.8% (55)
+Santa Clara ↑ 167
+
+Santa Clara ↑ 772
+{772, 'Santa Clara'}
+_______________________________________________________
+
+
+#275 High Point  at  #254 Wofford
+
+Strength of Schedule:
+High Point: 359
+Wofford: 356
+Wofford ↑ 3
+
+Points per game: 
+High Point: -- (332)
+Wofford: -- (332)
+High Point ↑ 0
+
+Opponent Points per game: 
+High Point: -- (332)
+Wofford: -- (332)
+High Point ↑ 0
+
+Effective FG %: 
+High Point: -- (332)
+Wofford: -- (332)
+High Point ↑ 0
+
+Opponent Effective FG %: 
+High Point: -- (332)
+Wofford: -- (332)
+High Point ↑ 0
+
+Rebound Rate: 
+High Point: -- (332)
+Wofford: -- (332)
+High Point ↑ 0
+
+3 point statistics: 
+3 point %: 
+High Point: -- (332)
+Wofford: -- (332)
+High Point ↑ 0
+% points from 3: 
+High Point: -- (332)
+Wofford: -- (332)
+High Point ↑ 0
+Opponent 3 point %: 
+High Point: -- (332)
+Wofford: -- (332)
+High Point ↑ 0
+
+Wofford ↑ 3
+{3, 'Wofford'}
+_______________________________________________________
+
+
+#340 Incar Word  at  #222 Tulsa
+
+Strength of Schedule:
+Incar Word: 9
+Tulsa: 304
+Incar Word ↑ 295
+
+Points per game: 
+Incar Word: 56.0 (295)
+Tulsa: 70.0 (195)
+Tulsa ↑ 100
+
+Opponent Points per game: 
+Incar Word: 88.0 (281)
+Tulsa: 53.0 (15)
+Tulsa ↑ 266
+
+Effective FG %: 
+Incar Word: 32.8% (326)
+Tulsa: 46.7% (202)
+Tulsa ↑ 124
+
+Opponent Effective FG %: 
+Incar Word: 58.7% (283)
+Tulsa: 38.3% (30)
+Tulsa ↑ 253
+
+Rebound Rate: 
+Incar Word: 48.4% (195)
+Tulsa: 62.4% (11)
+Tulsa ↑ 184
+
+3 point statistics: 
+3 point %: 
+Incar Word: 17.4% (317)
+Tulsa: 27.6% (229)
+Tulsa ↑ 88
+% points from 3: 
+Incar Word: 21.4% (265)
+Tulsa: 30.0% (128)
+Tulsa ↑ 137
+Opponent 3 point %: 
+Incar Word: 38.5% (256)
+Tulsa: 30.0% (128)
+Tulsa ↑ 128
+
+Tulsa ↑ 632
+{632, 'Tulsa'}
+_______________________________________________________
+
+
+#352 Cal Poly  at  #208 Wyoming
+
+Strength of Schedule:
+Cal Poly: 323
+Wyoming: 347
+Cal Poly ↑ 24
+
+Points per game: 
+Cal Poly: 76.0 (124)
+Wyoming: -- (332)
+Cal Poly ↑ 208
+
+Opponent Points per game: 
+Cal Poly: 97.0 (318)
+Wyoming: -- (332)
+Cal Poly ↑ 14
+
+Effective FG %: 
+Cal Poly: 46.6% (203)
+Wyoming: -- (332)
+Cal Poly ↑ 129
+
+Opponent Effective FG %: 
+Cal Poly: 65.3% (323)
+Wyoming: -- (332)
+Cal Poly ↑ 9
+
+Rebound Rate: 
+Cal Poly: 42.3% (289)
+Wyoming: -- (332)
+Cal Poly ↑ 43
+
+3 point statistics: 
+3 point %: 
+Cal Poly: 23.8% (275)
+Wyoming: -- (332)
+Cal Poly ↑ 57
+% points from 3: 
+Cal Poly: 19.7% (286)
+Wyoming: -- (332)
+Cal Poly ↑ 46
+Opponent 3 point %: 
+Cal Poly: 47.6% (315)
+Wyoming: -- (332)
+Cal Poly ↑ 17
+
+Cal Poly ↑ 427
+{427, 'Cal Poly'}
+_______________________________________________________
+
+
+#251 GA Southern  at  #336 E Michigan
+
+Strength of Schedule:
+GA Southern: 57
+E Michigan: 40
+E Michigan ↑ 17
+
+Points per game: 
+GA Southern: 62.0 (261)
+E Michigan: 55.0 (301)
+GA Southern ↑ 40
+
+Opponent Points per game: 
+GA Southern: 84.0 (258)
+E Michigan: 94.0 (309)
+GA Southern ↑ 51
+
+Effective FG %: 
+GA Southern: 45.6% (223)
+E Michigan: 39.0% (292)
+GA Southern ↑ 69
+
+Opponent Effective FG %: 
+GA Southern: 55.8% (256)
+E Michigan: 61.9% (309)
+GA Southern ↑ 53
+
+Rebound Rate: 
+GA Southern: 47.1% (221)
+E Michigan: 46.1% (242)
+GA Southern ↑ 21
+
+3 point statistics: 
+3 point %: 
+GA Southern: 27.3% (236)
+E Michigan: 33.3% (146)
+E Michigan ↑ 90
+% points from 3: 
+GA Southern: 29.0% (179)
+E Michigan: 27.3% (80)
+E Michigan ↑ 99
+Opponent 3 point %: 
+GA Southern: 44.8% (303)
+E Michigan: 27.3% (80)
+E Michigan ↑ 223
+
+GA Southern ↑ 217
+{217, 'GA Southern'}
+_______________________________________________________
+
+
+#349 Bucknell  at  #252 Niagara
+
+Strength of Schedule:
+Bucknell: 147
+Niagara: 110
+Niagara ↑ 37
+
+Points per game: 
+Bucknell: 59.0 (280)
+Niagara: 63.0 (253)
+Niagara ↑ 27
+
+Opponent Points per game: 
+Bucknell: 79.0 (218)
+Niagara: 70.0 (134)
+Niagara ↑ 84
+
+Effective FG %: 
+Bucknell: 45.9% (217)
+Niagara: 48.3% (188)
+Niagara ↑ 29
+
+Opponent Effective FG %: 
+Bucknell: 56.9% (266)
+Niagara: 53.8% (227)
+Niagara ↑ 39
+
+Rebound Rate: 
+Bucknell: 35.8% (326)
+Niagara: 45.6% (251)
+Niagara ↑ 75
+
+3 point statistics: 
+3 point %: 
+Bucknell: 32.7% (170)
+Niagara: 41.2% (42)
+Niagara ↑ 128
+% points from 3: 
+Bucknell: 43.2% (22)
+Niagara: 17.6% (22)
+Bucknell ↑ 0
+Opponent 3 point %: 
+Bucknell: 37.2% (243)
+Niagara: 17.6% (22)
+Niagara ↑ 221
+
+Niagara ↑ 291
+{'Niagara', 291}
+_______________________________________________________
+
+
+#268 St Peters  at  #343 NJIT
+
+Strength of Schedule:
+St Peters: 37
+NJIT: 10
+NJIT ↑ 27
+
+Points per game: 
+St Peters: 59.0 (280)
+NJIT: 60.0 (274)
+NJIT ↑ 6
+
+Opponent Points per game: 
+St Peters: 70.0 (134)
+NJIT: 101.0 (323)
+St Peters ↑ 189
+
+Effective FG %: 
+St Peters: 50.0% (156)
+NJIT: 40.4% (280)
+St Peters ↑ 124
+
+Opponent Effective FG %: 
+St Peters: 57.1% (270)
+NJIT: 62.5% (313)
+St Peters ↑ 43
+
+Rebound Rate: 
+St Peters: 52.5% (113)
+NJIT: 44.1% (269)
+St Peters ↑ 156
+
+3 point statistics: 
+3 point %: 
+St Peters: 33.3% (146)
+NJIT: 30.0% (204)
+St Peters ↑ 58
+% points from 3: 
+St Peters: 40.7% (37)
+NJIT: 42.9% (289)
+St Peters ↑ 252
+Opponent 3 point %: 
+St Peters: 42.9% (289)
+NJIT: 42.9% (289)
+St Peters ↑ 0
+
+St Peters ↑ 479
+{'St Peters', 479}
+_______________________________________________________
+
+
+#359 Coppin St  at  #256 Mt St Marys
+
+Strength of Schedule:
+Coppin St: 124
+Mt St Marys: 19
+Mt St Marys ↑ 105
+
+Points per game: 
+Coppin St: 52.0 (312)
+Mt St Marys: 53.0 (308)
+Mt St Marys ↑ 4
+
+Opponent Points per game: 
+Coppin St: 85.0 (264)
+Mt St Marys: 68.0 (120)
+Mt St Marys ↑ 144
+
+Effective FG %: 
+Coppin St: 41.2% (275)
+Mt St Marys: 37.3% (302)
+Coppin St ↑ 27
+
+Opponent Effective FG %: 
+Coppin St: 56.5% (262)
+Mt St Marys: 52.0% (200)
+Mt St Marys ↑ 62
+
+Rebound Rate: 
+Coppin St: 32.4% (330)
+Mt St Marys: 46.8% (229)
+Mt St Marys ↑ 101
+
+3 point statistics: 
+3 point %: 
+Coppin St: 26.3% (249)
+Mt St Marys: 16.7% (318)
+Coppin St ↑ 69
+% points from 3: 
+Coppin St: 28.8% (184)
+Mt St Marys: 18.8% (27)
+Mt St Marys ↑ 157
+Opponent 3 point %: 
+Coppin St: 40.4% (277)
+Mt St Marys: 18.8% (27)
+Mt St Marys ↑ 250
+
+Mt St Marys ↑ 389
+{'Mt St Marys', 389}
+_______________________________________________________
+
+
+#331 Albany  at  #299 Columbia
+
+Strength of Schedule:
+Albany: 101
+Columbia: 25
+Columbia ↑ 76
+
+Points per game: 
+Albany: 71.0 (179)
+Columbia: 59.0 (280)
+Albany ↑ 101
+
+Opponent Points per game: 
+Albany: 92.0 (296)
+Columbia: 78.0 (206)
+Columbia ↑ 90
+
+Effective FG %: 
+Albany: 43.8% (245)
+Columbia: 33.8% (323)
+Albany ↑ 78
+
+Opponent Effective FG %: 
+Albany: 50.0% (165)
+Columbia: 54.2% (235)
+Albany ↑ 70
+
+Rebound Rate: 
+Albany: 48.9% (182)
+Columbia: 49.4% (172)
+Columbia ↑ 10
+
+3 point statistics: 
+3 point %: 
+Albany: 34.6% (130)
+Columbia: 23.1% (283)
+Albany ↑ 153
+% points from 3: 
+Albany: 38.0% (59)
+Columbia: 26.1% (69)
+Albany ↑ 10
+Opponent 3 point %: 
+Albany: 45.5% (305)
+Columbia: 26.1% (69)
+Columbia ↑ 236
+
+Albany ↑ 73
+{73, 'Albany'}
+_______________________________________________________
+
+
+#330 UL Monroe  at  #333 Central Mich
+
+Strength of Schedule:
+UL Monroe: 7
+Central Mich: 15
+UL Monroe ↑ 8
+
+Points per game: 
+UL Monroe: 31.0 (331)
+Central Mich: 59.0 (280)
+Central Mich ↑ 51
+
+Opponent Points per game: 
+UL Monroe: 84.0 (258)
+Central Mich: 89.0 (287)
+UL Monroe ↑ 29
+
+Effective FG %: 
+UL Monroe: 32.1% (328)
+Central Mich: 39.1% (291)
+Central Mich ↑ 37
+
+Opponent Effective FG %: 
+UL Monroe: 51.6% (196)
+Central Mich: 65.0% (322)
+UL Monroe ↑ 126
+
+Rebound Rate: 
+UL Monroe: 38.8% (314)
+Central Mich: 53.2% (99)
+Central Mich ↑ 215
+
+3 point statistics: 
+3 point %: 
+UL Monroe: 18.8% (312)
+Central Mich: 19.0% (310)
+Central Mich ↑ 2
+% points from 3: 
+UL Monroe: 29.0% (179)
+Central Mich: 45.0% (304)
+UL Monroe ↑ 125
+Opponent 3 point %: 
+UL Monroe: 31.4% (152)
+Central Mich: 45.0% (304)
+UL Monroe ↑ 152
+
+Central Mich ↑ 140
+{140, 'Central Mich'}
+_______________________________________________________
+
+
+Best bets according to the stats:
+Houston ↑ 1600
+Miss State ↑ 1535
+Providence ↑ 1356
+Campbell ↑ 1294
+Bradley ↑ 1234
+Seattle ↑ 1209
+Notre Dame ↑ 1178
+Connecticut ↑ 1033
+Saint Louis ↑ 1028
+Kent St ↑ 977
+Buffalo ↑ 937
+Santa Clara ↑ 772
+N Illinois ↑ 761
+Creighton ↑ 747
+NC-Asheville ↑ 742
+Utah Tech ↑ 741
+UNLV ↑ 717
+North Texas ↑ 700
+Tulsa ↑ 632
+Loyola-Chi ↑ 587
+UC Irvine ↑ 502
+Bowling Grn ↑ 482
+St Peters ↑ 479
+Georgetown ↑ 427
+Cal Poly ↑ 427
+Mt St Marys ↑ 389
+Drexel ↑ 359
+Richmond ↑ 359
+Brown ↑ 303
+Niagara ↑ 291
+Geo Wshgtn ↑ 254
+Arizona St ↑ 248
+San Diego ↑ 242
+Seton Hall ↑ 236
+Toledo ↑ 223
+GA Southern ↑ 217
+La Salle ↑ 216
+DePaul ↑ 192
+Central Mich ↑ 140
+Marist ↑ 119
+Fordham ↑ 116
+Georgia St ↑ 108
+Ohio ↑ 80
+Texas St ↑ 76
+Albany ↑ 73
+St Bonavent ↑ 56
+Ball St ↑ 4
+Wofford ↑ 3
+['Houston', 'Miss State', 'Providence', 'Campbell', 'Bradley', 'Seattle', 'Notre Dame', 'Connecticut', 'Saint Louis', 'Kent St', 'Buffalo', 'Santa Clara', 'N Illinois', 'Creighton', 'NC-Asheville', 'Utah Tech', 'UNLV', 'North Texas', 'Tulsa', 'Loyola-Chi', 'UC Irvine', 'Bowling Grn', 'St Peters', 'Georgetown', 'Cal Poly', 'Mt St Marys', 'Drexel', 'Richmond', 'Brown', 'Niagara', 'Geo Wshgtn', 'Arizona St', 'San Diego', 'Seton Hall', 'Toledo', 'GA Southern', 'La Salle', 'DePaul', 'Central Mich', 'Marist', 'Fordham', 'Georgia St', 'Ohio', 'Texas St', 'Albany', 'St Bonavent', 'Ball St', 'Wofford']
+
+
+Time taken for queue:  21 seconds

@@ -1,0 +1,807 @@
+
+[('Utah', 'St Marys')]
+#39 Utah  at  #43 St Marys
+
+Strength of Schedule:
+Utah: 19
+St Marys: 23
+Utah ↑ 4
+
+Points per game: 
+Utah: 81.6 (47)
+St Marys: 64.2 (305)
+Utah ↑ 258
+
+Opponent Points per game: 
+Utah: 71.2 (151)
+St Marys: 63.8 (40)
+St Marys ↑ 111
+
+Effective FG %: 
+Utah: 54.6% (51)
+St Marys: 45.3% (301)
+Utah ↑ 250
+
+Opponent Effective FG %: 
+Utah: 50.2% (196)
+St Marys: 47.3% (100)
+St Marys ↑ 96
+
+Rebound Rate: 
+Utah: 55.1% (37)
+St Marys: 56.5% (17)
+St Marys ↑ 20
+
+3 point statistics: 
+3 point %: 
+Utah: 38.8% (33)
+St Marys: 30.3% (248)
+Utah ↑ 215
+% points from 3: 
+Utah: 34.6% (77)
+St Marys: 32.5% (161)
+Utah ↑ 84
+Opponent 3 point %: 
+Utah: 35.8% (269)
+St Marys: 32.5% (161)
+St Marys ↑ 108
+
+Utah ↑ 285
+{285, 'Utah'}
+_______________________________________________________
+
+
+[('Oakland', 'Xavier')]
+#153 Oakland  at  #31 Xavier
+
+Strength of Schedule:
+Oakland: 45
+Xavier: 12
+Xavier ↑ 33
+
+Points per game: 
+Oakland: 72.7 (176)
+Xavier: 77.3 (101)
+Xavier ↑ 75
+
+Opponent Points per game: 
+Oakland: 71.7 (158)
+Xavier: 66.7 (84)
+Xavier ↑ 74
+
+Effective FG %: 
+Oakland: 50.7% (152)
+Xavier: 52.4% (107)
+Xavier ↑ 45
+
+Opponent Effective FG %: 
+Oakland: 49.2% (162)
+Xavier: 41.2% (10)
+Xavier ↑ 152
+
+Rebound Rate: 
+Oakland: 49.3% (203)
+Xavier: 50.8% (152)
+Xavier ↑ 51
+
+3 point statistics: 
+3 point %: 
+Oakland: 35.0% (115)
+Xavier: 31.6% (205)
+Oakland ↑ 90
+% points from 3: 
+Oakland: 34.4% (82)
+Xavier: 27.3% (45)
+Xavier ↑ 37
+Opponent 3 point %: 
+Oakland: 28.0% (62)
+Xavier: 27.3% (45)
+Xavier ↑ 17
+
+Xavier ↑ 430
+{'Xavier', 430}
+_______________________________________________________
+
+
+[('N Illinois', 'Northwestern')]
+#154 N Illinois  at  #67 Northwestern
+
+Strength of Schedule:
+N Illinois: 137
+Northwestern: 70
+Northwestern ↑ 67
+
+Points per game: 
+N Illinois: 83.6 (27)
+Northwestern: 67.0 (262)
+N Illinois ↑ 235
+
+Opponent Points per game: 
+N Illinois: 81.2 (312)
+Northwestern: 62.6 (27)
+Northwestern ↑ 285
+
+Effective FG %: 
+N Illinois: 53.8% (72)
+Northwestern: 48.3% (222)
+N Illinois ↑ 150
+
+Opponent Effective FG %: 
+N Illinois: 47.0% (95)
+Northwestern: 52.9% (264)
+N Illinois ↑ 169
+
+Rebound Rate: 
+N Illinois: 49.7% (187)
+Northwestern: 50.8% (154)
+Northwestern ↑ 33
+
+3 point statistics: 
+3 point %: 
+N Illinois: 36.4% (76)
+Northwestern: 29.1% (283)
+N Illinois ↑ 207
+% points from 3: 
+N Illinois: 28.0% (228)
+Northwestern: 38.4% (324)
+N Illinois ↑ 96
+Opponent 3 point %: 
+N Illinois: 28.9% (83)
+Northwestern: 38.4% (324)
+N Illinois ↑ 241
+
+N Illinois ↑ 169
+{169, 'N Illinois'}
+_______________________________________________________
+
+
+[('N Hampshire', 'Connecticut')]
+#217 N Hampshire  at  #5 Connecticut
+
+Strength of Schedule:
+N Hampshire: 241
+Connecticut: 59
+Connecticut ↑ 182
+
+Points per game: 
+N Hampshire: 75.6 (124)
+Connecticut: 89.5 (7)
+Connecticut ↑ 117
+
+Opponent Points per game: 
+N Hampshire: 75.4 (235)
+Connecticut: 60.0 (11)
+Connecticut ↑ 224
+
+Effective FG %: 
+N Hampshire: 49.0% (200)
+Connecticut: 59.6% (10)
+Connecticut ↑ 190
+
+Opponent Effective FG %: 
+N Hampshire: 48.1% (128)
+Connecticut: 42.8% (25)
+Connecticut ↑ 103
+
+Rebound Rate: 
+N Hampshire: 48.1% (247)
+Connecticut: 60.9% (3)
+Connecticut ↑ 244
+
+3 point statistics: 
+3 point %: 
+N Hampshire: 31.3% (218)
+Connecticut: 34.0% (145)
+Connecticut ↑ 73
+% points from 3: 
+N Hampshire: 33.3% (103)
+Connecticut: 30.2% (105)
+N Hampshire ↑ 2
+Opponent 3 point %: 
+N Hampshire: 26.0% (29)
+Connecticut: 30.2% (105)
+N Hampshire ↑ 76
+
+Connecticut ↑ 1060
+{1060, 'Connecticut'}
+_______________________________________________________
+
+
+[('E Washingtn', 'Wash State')]
+#197 E Washingtn  at  #60 Wash State
+
+Strength of Schedule:
+E Washingtn: 52
+Wash State: 116
+E Washingtn ↑ 64
+
+Points per game: 
+E Washingtn: 68.3 (240)
+Wash State: 80.4 (62)
+Wash State ↑ 178
+
+Opponent Points per game: 
+E Washingtn: 89.0 (355)
+Wash State: 62.0 (23)
+Wash State ↑ 332
+
+Effective FG %: 
+E Washingtn: 48.3% (221)
+Wash State: 57.3% (15)
+Wash State ↑ 206
+
+Opponent Effective FG %: 
+E Washingtn: 58.1% (346)
+Wash State: 41.2% (9)
+Wash State ↑ 337
+
+Rebound Rate: 
+E Washingtn: 46.0% (301)
+Wash State: 55.8% (28)
+Wash State ↑ 273
+
+3 point statistics: 
+3 point %: 
+E Washingtn: 29.8% (264)
+Wash State: 37.5% (55)
+Wash State ↑ 209
+% points from 3: 
+E Washingtn: 34.1% (88)
+Wash State: 25.5% (25)
+Wash State ↑ 63
+Opponent 3 point %: 
+E Washingtn: 41.0% (348)
+Wash State: 25.5% (25)
+Wash State ↑ 323
+
+Wash State ↑ 1262
+{'Wash State', 1262}
+_______________________________________________________
+
+
+[('St Peters', 'Rutgers')]
+#223 St Peters  at  #59 Rutgers
+
+Strength of Schedule:
+St Peters: 161
+Rutgers: 134
+Rutgers ↑ 27
+
+Points per game: 
+St Peters: 66.3 (280)
+Rutgers: 70.4 (212)
+Rutgers ↑ 68
+
+Opponent Points per game: 
+St Peters: 64.5 (50)
+Rutgers: 58.6 (6)
+Rutgers ↑ 44
+
+Effective FG %: 
+St Peters: 44.9% (309)
+Rutgers: 47.9% (233)
+Rutgers ↑ 76
+
+Opponent Effective FG %: 
+St Peters: 50.3% (203)
+Rutgers: 43.5% (32)
+Rutgers ↑ 171
+
+Rebound Rate: 
+St Peters: 57.0% (13)
+Rutgers: 53.2% (78)
+St Peters ↑ 65
+
+3 point statistics: 
+3 point %: 
+St Peters: 32.5% (187)
+Rutgers: 28.4% (299)
+St Peters ↑ 112
+% points from 3: 
+St Peters: 29.4% (190)
+Rutgers: 32.5% (160)
+Rutgers ↑ 30
+Opponent 3 point %: 
+St Peters: 36.8% (289)
+Rutgers: 32.5% (160)
+Rutgers ↑ 129
+
+Rutgers ↑ 321
+{321, 'Rutgers'}
+_______________________________________________________
+
+
+[('N Dakota St', 'San Jose St')]
+#207 N Dakota St  at  #130 San Jose St
+
+Strength of Schedule:
+N Dakota St: 194
+San Jose St: 154
+San Jose St ↑ 40
+
+Points per game: 
+N Dakota St: 68.4 (238)
+San Jose St: 66.6 (273)
+N Dakota St ↑ 35
+
+Opponent Points per game: 
+N Dakota St: 77.6 (268)
+San Jose St: 60.4 (15)
+San Jose St ↑ 253
+
+Effective FG %: 
+N Dakota St: 48.8% (207)
+San Jose St: 53.1% (90)
+San Jose St ↑ 117
+
+Opponent Effective FG %: 
+N Dakota St: 53.5% (283)
+San Jose St: 42.8% (26)
+San Jose St ↑ 257
+
+Rebound Rate: 
+N Dakota St: 48.1% (243)
+San Jose St: 48.8% (219)
+San Jose St ↑ 24
+
+3 point statistics: 
+3 point %: 
+N Dakota St: 39.4% (28)
+San Jose St: 34.6% (123)
+N Dakota St ↑ 95
+% points from 3: 
+N Dakota St: 32.5% (119)
+San Jose St: 23.1% (6)
+San Jose St ↑ 113
+Opponent 3 point %: 
+N Dakota St: 39.8% (339)
+San Jose St: 23.1% (6)
+San Jose St ↑ 333
+
+San Jose St ↑ 656
+{656, 'San Jose St'}
+_______________________________________________________
+
+
+[('UCSB', 'Fresno St')]
+#180 UCSB  at  #185 Fresno St
+
+Strength of Schedule:
+UCSB: 316
+Fresno St: 225
+Fresno St ↑ 91
+
+Points per game: 
+UCSB: 82.7 (34)
+Fresno St: 75.3 (128)
+UCSB ↑ 94
+
+Opponent Points per game: 
+UCSB: 81.0 (307)
+Fresno St: 79.5 (290)
+Fresno St ↑ 17
+
+Effective FG %: 
+UCSB: 61.4% (5)
+Fresno St: 56.0% (27)
+UCSB ↑ 22
+
+Opponent Effective FG %: 
+UCSB: 52.1% (246)
+Fresno St: 53.4% (280)
+UCSB ↑ 34
+
+Rebound Rate: 
+UCSB: 58.1% (8)
+Fresno St: 55.1% (37)
+UCSB ↑ 29
+
+3 point statistics: 
+3 point %: 
+UCSB: 40.7% (14)
+Fresno St: 40.3% (20)
+UCSB ↑ 6
+% points from 3: 
+UCSB: 29.0% (196)
+Fresno St: 37.6% (313)
+UCSB ↑ 117
+Opponent 3 point %: 
+UCSB: 33.3% (190)
+Fresno St: 37.6% (313)
+UCSB ↑ 123
+
+UCSB ↑ 71
+{71, 'UCSB'}
+_______________________________________________________
+
+
+[('Troy', 'E Kentucky')]
+#196 Troy  at  #199 E Kentucky
+
+Strength of Schedule:
+Troy: 291
+E Kentucky: 361
+Troy ↑ 70
+
+Points per game: 
+Troy: 79.0 (81)
+E Kentucky: 69.0 (231)
+Troy ↑ 150
+
+Opponent Points per game: 
+Troy: 81.0 (307)
+E Kentucky: 78.0 (274)
+E Kentucky ↑ 33
+
+Effective FG %: 
+Troy: 46.7% (257)
+E Kentucky: 41.1% (350)
+Troy ↑ 93
+
+Opponent Effective FG %: 
+Troy: 48.9% (152)
+E Kentucky: 50.0% (185)
+Troy ↑ 33
+
+Rebound Rate: 
+Troy: 52.6% (99)
+E Kentucky: 52.7% (93)
+E Kentucky ↑ 6
+
+3 point statistics: 
+3 point %: 
+Troy: 30.3% (247)
+E Kentucky: 28.1% (306)
+Troy ↑ 59
+% points from 3: 
+Troy: 25.6% (271)
+E Kentucky: 42.0% (355)
+Troy ↑ 84
+Opponent 3 point %: 
+Troy: 30.4% (109)
+E Kentucky: 42.0% (355)
+Troy ↑ 246
+
+Troy ↑ 307
+{307, 'Troy'}
+_______________________________________________________
+
+
+[('W Illinois', 'Wisconsin')]
+#331 W Illinois  at  #28 Wisconsin
+
+Strength of Schedule:
+W Illinois: 324
+Wisconsin: 13
+Wisconsin ↑ 311
+
+Points per game: 
+W Illinois: 65.4 (287)
+Wisconsin: 74.3 (147)
+Wisconsin ↑ 140
+
+Opponent Points per game: 
+W Illinois: 81.0 (307)
+Wisconsin: 66.3 (78)
+Wisconsin ↑ 229
+
+Effective FG %: 
+W Illinois: 41.7% (347)
+Wisconsin: 50.1% (165)
+Wisconsin ↑ 182
+
+Opponent Effective FG %: 
+W Illinois: 49.7% (179)
+Wisconsin: 52.1% (248)
+W Illinois ↑ 69
+
+Rebound Rate: 
+W Illinois: 51.4% (132)
+Wisconsin: 53.9% (59)
+Wisconsin ↑ 73
+
+3 point statistics: 
+3 point %: 
+W Illinois: 25.2% (340)
+Wisconsin: 29.7% (266)
+Wisconsin ↑ 74
+% points from 3: 
+W Illinois: 26.6% (254)
+Wisconsin: 36.5% (283)
+W Illinois ↑ 29
+Opponent 3 point %: 
+W Illinois: 33.7% (209)
+Wisconsin: 36.5% (283)
+W Illinois ↑ 74
+
+Wisconsin ↑ 866
+{866, 'Wisconsin'}
+_______________________________________________________
+
+
+[('Hsn Christian', 'TX Christian')]
+#360 Hsn Christian  at  #29 TX Christian
+
+Strength of Schedule:
+Hsn Christian: 261
+TX Christian: 354
+Hsn Christian ↑ 93
+
+Points per game: 
+Hsn Christian: 72.3 (183)
+TX Christian: 91.4 (6)
+TX Christian ↑ 177
+
+Opponent Points per game: 
+Hsn Christian: 93.5 (361)
+TX Christian: 63.2 (33)
+TX Christian ↑ 328
+
+Effective FG %: 
+Hsn Christian: 46.5% (264)
+TX Christian: 58.1% (12)
+TX Christian ↑ 252
+
+Opponent Effective FG %: 
+Hsn Christian: 56.0% (325)
+TX Christian: 46.1% (76)
+TX Christian ↑ 249
+
+Rebound Rate: 
+Hsn Christian: 42.6% (347)
+TX Christian: 58.7% (6)
+TX Christian ↑ 341
+
+3 point statistics: 
+3 point %: 
+Hsn Christian: 19.6% (360)
+TX Christian: 34.3% (135)
+TX Christian ↑ 225
+% points from 3: 
+Hsn Christian: 11.4% (362)
+TX Christian: 32.5% (162)
+TX Christian ↑ 200
+Opponent 3 point %: 
+Hsn Christian: 35.4% (261)
+TX Christian: 32.5% (162)
+TX Christian ↑ 99
+
+TX Christian ↑ 1254
+{'TX Christian', 1254}
+_______________________________________________________
+
+
+[('Manhattan', 'Fordham')]
+#311 Manhattan  at  #198 Fordham
+
+Strength of Schedule:
+Manhattan: 226
+Fordham: 182
+Fordham ↑ 44
+
+Points per game: 
+Manhattan: 62.3 (334)
+Fordham: 67.0 (262)
+Fordham ↑ 72
+
+Opponent Points per game: 
+Manhattan: 77.8 (271)
+Fordham: 68.8 (118)
+Fordham ↑ 153
+
+Effective FG %: 
+Manhattan: 44.4% (317)
+Fordham: 45.1% (304)
+Fordham ↑ 13
+
+Opponent Effective FG %: 
+Manhattan: 55.3% (314)
+Fordham: 45.9% (71)
+Fordham ↑ 243
+
+Rebound Rate: 
+Manhattan: 47.5% (267)
+Fordham: 51.2% (141)
+Fordham ↑ 126
+
+3 point statistics: 
+3 point %: 
+Manhattan: 30.7% (235)
+Fordham: 29.3% (279)
+Manhattan ↑ 44
+% points from 3: 
+Manhattan: 27.7% (231)
+Fordham: 29.3% (89)
+Fordham ↑ 142
+Opponent 3 point %: 
+Manhattan: 39.1% (333)
+Fordham: 29.3% (89)
+Fordham ↑ 244
+
+Fordham ↑ 651
+{651, 'Fordham'}
+_______________________________________________________
+
+
+[('Presbyterian', 'Elon')]
+#285 Presbyterian  at  #299 Elon
+
+Strength of Schedule:
+Presbyterian: 339
+Elon: 281
+Elon ↑ 58
+
+Points per game: 
+Presbyterian: 73.2 (163)
+Elon: 77.3 (101)
+Elon ↑ 62
+
+Opponent Points per game: 
+Presbyterian: 71.5 (153)
+Elon: 80.2 (300)
+Presbyterian ↑ 147
+
+Effective FG %: 
+Presbyterian: 52.7% (100)
+Elon: 55.4% (35)
+Elon ↑ 65
+
+Opponent Effective FG %: 
+Presbyterian: 45.7% (67)
+Elon: 53.5% (282)
+Presbyterian ↑ 215
+
+Rebound Rate: 
+Presbyterian: 49.9% (183)
+Elon: 49.6% (191)
+Presbyterian ↑ 8
+
+3 point statistics: 
+3 point %: 
+Presbyterian: 38.0% (46)
+Elon: 41.5% (9)
+Elon ↑ 37
+% points from 3: 
+Presbyterian: 26.0% (265)
+Elon: 32.8% (175)
+Elon ↑ 90
+Opponent 3 point %: 
+Presbyterian: 27.6% (50)
+Elon: 32.8% (175)
+Presbyterian ↑ 125
+
+Presbyterian ↑ 185
+{185, 'Presbyterian'}
+_______________________________________________________
+
+
+[('Maryland BC', 'Hampton')]
+#275 Maryland BC  at  #329 Hampton
+
+Strength of Schedule:
+Maryland BC: 283
+Hampton: 278
+Hampton ↑ 5
+
+Points per game: 
+Maryland BC: 80.0 (65)
+Hampton: 70.8 (204)
+Maryland BC ↑ 139
+
+Opponent Points per game: 
+Maryland BC: 84.3 (337)
+Hampton: 84.6 (338)
+Maryland BC ↑ 1
+
+Effective FG %: 
+Maryland BC: 51.4% (133)
+Hampton: 50.0% (167)
+Maryland BC ↑ 34
+
+Opponent Effective FG %: 
+Maryland BC: 51.0% (219)
+Hampton: 53.6% (286)
+Maryland BC ↑ 67
+
+Rebound Rate: 
+Maryland BC: 48.7% (222)
+Hampton: 45.4% (314)
+Maryland BC ↑ 92
+
+3 point statistics: 
+3 point %: 
+Maryland BC: 35.1% (112)
+Hampton: 32.8% (180)
+Maryland BC ↑ 68
+% points from 3: 
+Maryland BC: 28.8% (208)
+Hampton: 34.4% (235)
+Maryland BC ↑ 27
+Opponent 3 point %: 
+Maryland BC: 31.1% (122)
+Hampton: 34.4% (235)
+Maryland BC ↑ 113
+
+Maryland BC ↑ 328
+{328, 'Maryland BC'}
+_______________________________________________________
+
+
+[('Utah Tech', 'Lindenwood')]
+#287 Utah Tech  at  #342 Lindenwood
+
+Strength of Schedule:
+Utah Tech: 190
+Lindenwood: 288
+Utah Tech ↑ 98
+
+Points per game: 
+Utah Tech: 67.8 (250)
+Lindenwood: 60.0 (343)
+Utah Tech ↑ 93
+
+Opponent Points per game: 
+Utah Tech: 81.0 (307)
+Lindenwood: 78.4 (280)
+Lindenwood ↑ 27
+
+Effective FG %: 
+Utah Tech: 44.4% (315)
+Lindenwood: 42.3% (341)
+Utah Tech ↑ 26
+
+Opponent Effective FG %: 
+Utah Tech: 53.7% (289)
+Lindenwood: 53.8% (292)
+Utah Tech ↑ 3
+
+Rebound Rate: 
+Utah Tech: 46.9% (279)
+Lindenwood: 47.0% (275)
+Lindenwood ↑ 4
+
+3 point statistics: 
+3 point %: 
+Utah Tech: 36.7% (73)
+Lindenwood: 31.6% (207)
+Utah Tech ↑ 134
+% points from 3: 
+Utah Tech: 32.1% (127)
+Lindenwood: 32.2% (149)
+Utah Tech ↑ 22
+Opponent 3 point %: 
+Utah Tech: 39.3% (336)
+Lindenwood: 32.2% (149)
+Lindenwood ↑ 187
+
+Utah Tech ↑ 189
+{'Utah Tech', 189}
+_______________________________________________________
+
+
+Best bets according to the stats:
+Wash State ↑ 1262
+TX Christian ↑ 1254
+Connecticut ↑ 1060
+Wisconsin ↑ 866
+San Jose St ↑ 656
+Fordham ↑ 651
+Xavier ↑ 430
+Maryland BC ↑ 328
+Rutgers ↑ 321
+Troy ↑ 307
+Utah ↑ 285
+Utah Tech ↑ 189
+Presbyterian ↑ 185
+N Illinois ↑ 169
+UCSB ↑ 71
+['Wash State', 'TX Christian', 'Connecticut', 'Wisconsin', 'San Jose St', 'Fordham', 'Xavier', 'Maryland BC', 'Rutgers', 'Troy', 'Utah', 'Utah Tech', 'Presbyterian', 'N Illinois', 'UCSB']
+
+
+Time taken for queue:  12 seconds
+
+Time taken for calls/printing:  5 seconds
+
+Time taken:  17 seconds
+
+Process finished with exit code 0

@@ -1,0 +1,859 @@
+[('Oklahoma', 'Iowa')]
+#24 Oklahoma  vs.  #22 Iowa
+
+Strength of Schedule:
+Oklahoma: 336
+Iowa: 20
+Iowa ↑ 316
+
+Points per game: 
+Oklahoma: 88.5 (16)
+Iowa: 95.0 (4)
+Iowa ↑ 12
+
+Opponent Points per game: 
+Oklahoma: 55.5 (5)
+Iowa: 75.3 (229)
+Oklahoma ↑ 224
+
+Effective FG %: 
+Oklahoma: 57.7% (16)
+Iowa: 54.4% (55)
+Oklahoma ↑ 39
+
+Opponent Effective FG %: 
+Oklahoma: 38.2% (2)
+Iowa: 47.7% (122)
+Oklahoma ↑ 120
+
+Rebound Rate: 
+Oklahoma: 58.7% (10)
+Iowa: 49.4% (199)
+Oklahoma ↑ 189
+
+3 point statistics: 
+3 point %: 
+Oklahoma: 33.7% (141)
+Iowa: 36.7% (71)
+Iowa ↑ 70
+% points from 3: 
+Oklahoma: 27.1% (239)
+Iowa: 30.0% (106)
+Iowa ↑ 133
+Opponent 3 point %: 
+Oklahoma: 23.1% (12)
+Iowa: 30.0% (106)
+Oklahoma ↑ 94
+
+Oklahoma ↑ 244
+{'Oklahoma', 244}
+_______________________________________________________
+
+
+[('Arizona', 'Michigan St')]
+#2 Arizona  vs.  #14 Michigan St
+
+Strength of Schedule:
+Arizona: 9
+Michigan St: 16
+Arizona ↑ 7
+
+Points per game: 
+Arizona: 99.6 (2)
+Michigan St: 74.0 (145)
+Arizona ↑ 143
+
+Opponent Points per game: 
+Arizona: 63.0 (44)
+Michigan St: 61.4 (31)
+Michigan St ↑ 13
+
+Effective FG %: 
+Arizona: 58.8% (9)
+Michigan St: 48.7% (200)
+Arizona ↑ 191
+
+Opponent Effective FG %: 
+Arizona: 44.1% (52)
+Michigan St: 39.3% (7)
+Michigan St ↑ 45
+
+Rebound Rate: 
+Arizona: 63.8% (1)
+Michigan St: 50.4% (167)
+Arizona ↑ 166
+
+3 point statistics: 
+3 point %: 
+Arizona: 41.5% (12)
+Michigan St: 26.3% (317)
+Arizona ↑ 305
+% points from 3: 
+Arizona: 26.5% (256)
+Michigan St: 28.1% (66)
+Michigan St ↑ 190
+Opponent 3 point %: 
+Arizona: 31.7% (156)
+Michigan St: 28.1% (66)
+Michigan St ↑ 90
+
+Arizona ↑ 449
+{449, 'Arizona'}
+_______________________________________________________
+
+
+[('Villanova', 'N Carolina')]
+#21 Villanova  vs.  #23 N Carolina
+
+Strength of Schedule:
+Villanova: 44
+N Carolina: 190
+Villanova ↑ 146
+
+Points per game: 
+Villanova: 77.4 (93)
+N Carolina: 86.0 (21)
+N Carolina ↑ 72
+
+Opponent Points per game: 
+Villanova: 61.0 (26)
+N Carolina: 64.8 (64)
+Villanova ↑ 38
+
+Effective FG %: 
+Villanova: 53.8% (75)
+N Carolina: 52.8% (98)
+Villanova ↑ 23
+
+Opponent Effective FG %: 
+Villanova: 45.0% (63)
+N Carolina: 45.0% (64)
+Villanova ↑ 1
+
+Rebound Rate: 
+Villanova: 55.0% (45)
+N Carolina: 53.3% (80)
+Villanova ↑ 35
+
+3 point statistics: 
+3 point %: 
+Villanova: 35.7% (92)
+N Carolina: 35.7% (92)
+Villanova ↑ 0
+% points from 3: 
+Villanova: 38.8% (23)
+N Carolina: 32.7% (181)
+Villanova ↑ 158
+Opponent 3 point %: 
+Villanova: 32.8% (188)
+N Carolina: 32.7% (181)
+N Carolina ↑ 7
+
+Villanova ↑ 171
+{'Villanova', 171}
+_______________________________________________________
+
+
+[('Colorado St', 'Creighton')]
+#58 Colorado St  vs.  #5 Creighton
+
+Strength of Schedule:
+Colorado St: 133
+Creighton: 53
+Creighton ↑ 80
+
+Points per game: 
+Colorado St: 87.8 (18)
+Creighton: 91.2 (9)
+Creighton ↑ 9
+
+Opponent Points per game: 
+Colorado St: 69.8 (144)
+Creighton: 62.6 (40)
+Creighton ↑ 104
+
+Effective FG %: 
+Colorado St: 63.5% (4)
+Creighton: 65.1% (2)
+Creighton ↑ 2
+
+Opponent Effective FG %: 
+Colorado St: 48.8% (161)
+Creighton: 43.8% (46)
+Creighton ↑ 115
+
+Rebound Rate: 
+Colorado St: 49.1% (216)
+Creighton: 60.9% (6)
+Creighton ↑ 210
+
+3 point statistics: 
+3 point %: 
+Colorado St: 41.2% (15)
+Creighton: 42.0% (9)
+Creighton ↑ 6
+% points from 3: 
+Colorado St: 32.1% (123)
+Creighton: 35.4% (255)
+Colorado St ↑ 132
+Opponent 3 point %: 
+Colorado St: 30.9% (130)
+Creighton: 35.4% (255)
+Colorado St ↑ 125
+
+Creighton ↑ 520
+{520, 'Creighton'}
+_______________________________________________________
+
+
+[('Seton Hall', 'USC')]
+#59 Seton Hall  vs.  #32 USC
+
+Strength of Schedule:
+Seton Hall: 324
+USC: 50
+USC ↑ 274
+
+Points per game: 
+Seton Hall: 80.8 (58)
+USC: 77.0 (102)
+Seton Hall ↑ 44
+
+Opponent Points per game: 
+Seton Hall: 59.0 (14)
+USC: 67.0 (101)
+Seton Hall ↑ 87
+
+Effective FG %: 
+Seton Hall: 56.6% (24)
+USC: 50.7% (153)
+Seton Hall ↑ 129
+
+Opponent Effective FG %: 
+Seton Hall: 41.2% (17)
+USC: 43.6% (43)
+Seton Hall ↑ 26
+
+Rebound Rate: 
+Seton Hall: 58.0% (14)
+USC: 51.7% (123)
+Seton Hall ↑ 109
+
+3 point statistics: 
+3 point %: 
+Seton Hall: 31.4% (205)
+USC: 33.7% (140)
+USC ↑ 65
+% points from 3: 
+Seton Hall: 20.4% (330)
+USC: 27.1% (55)
+USC ↑ 275
+Opponent 3 point %: 
+Seton Hall: 24.8% (21)
+USC: 27.1% (55)
+Seton Hall ↑ 34
+
+Seton Hall ↑ 121
+{121, 'Seton Hall'}
+_______________________________________________________
+
+
+[('Penn St', 'Texas A&M')]
+#67 Penn St  vs.  #17 Texas A&M
+
+Strength of Schedule:
+Penn St: 331
+Texas A&M: 22
+Texas A&M ↑ 309
+
+Points per game: 
+Penn St: 77.5 (92)
+Texas A&M: 76.0 (113)
+Penn St ↑ 21
+
+Opponent Points per game: 
+Penn St: 53.5 (3)
+Texas A&M: 61.0 (26)
+Penn St ↑ 23
+
+Effective FG %: 
+Penn St: 48.2% (216)
+Texas A&M: 44.7% (302)
+Penn St ↑ 86
+
+Opponent Effective FG %: 
+Penn St: 37.4% (1)
+Texas A&M: 43.6% (42)
+Penn St ↑ 41
+
+Rebound Rate: 
+Penn St: 48.9% (219)
+Texas A&M: 58.0% (16)
+Texas A&M ↑ 203
+
+3 point statistics: 
+3 point %: 
+Penn St: 29.6% (259)
+Texas A&M: 24.7% (335)
+Penn St ↑ 76
+% points from 3: 
+Penn St: 31.0% (141)
+Texas A&M: 29.6% (100)
+Texas A&M ↑ 41
+Opponent 3 point %: 
+Penn St: 19.7% (1)
+Texas A&M: 29.6% (100)
+Penn St ↑ 99
+
+Texas A&M ↑ 341
+{'Texas A&M', 341}
+_______________________________________________________
+
+
+[('Arkansas', 'Memphis')]
+#41 Arkansas  vs.  #43 Memphis
+
+Strength of Schedule:
+Arkansas: 106
+Memphis: 36
+Memphis ↑ 70
+
+Points per game: 
+Arkansas: 82.8 (36)
+Memphis: 81.8 (47)
+Arkansas ↑ 11
+
+Opponent Points per game: 
+Arkansas: 71.2 (160)
+Memphis: 68.5 (121)
+Memphis ↑ 39
+
+Effective FG %: 
+Arkansas: 50.3% (157)
+Memphis: 55.7% (32)
+Memphis ↑ 125
+
+Opponent Effective FG %: 
+Arkansas: 47.0% (107)
+Memphis: 43.1% (39)
+Memphis ↑ 68
+
+Rebound Rate: 
+Arkansas: 53.2% (83)
+Memphis: 48.6% (232)
+Arkansas ↑ 149
+
+3 point statistics: 
+3 point %: 
+Arkansas: 33.0% (165)
+Memphis: 40.6% (20)
+Memphis ↑ 145
+% points from 3: 
+Arkansas: 26.1% (263)
+Memphis: 30.9% (129)
+Memphis ↑ 134
+Opponent 3 point %: 
+Arkansas: 34.5% (232)
+Memphis: 30.9% (129)
+Memphis ↑ 103
+
+Memphis ↑ 142
+{142, 'Memphis'}
+_______________________________________________________
+
+
+[('Fla Atlantic', 'Butler')]
+#37 Fla Atlantic  vs.  #69 Butler
+
+Strength of Schedule:
+Fla Atlantic: 149
+Butler: 96
+Butler ↑ 53
+
+Points per game: 
+Fla Atlantic: 75.7 (116)
+Butler: 80.0 (64)
+Butler ↑ 52
+
+Opponent Points per game: 
+Fla Atlantic: 60.0 (17)
+Butler: 58.0 (8)
+Butler ↑ 9
+
+Effective FG %: 
+Fla Atlantic: 51.9% (119)
+Butler: 52.3% (110)
+Butler ↑ 9
+
+Opponent Effective FG %: 
+Fla Atlantic: 44.6% (58)
+Butler: 39.6% (9)
+Butler ↑ 49
+
+Rebound Rate: 
+Fla Atlantic: 53.8% (66)
+Butler: 51.4% (131)
+Fla Atlantic ↑ 65
+
+3 point statistics: 
+3 point %: 
+Fla Atlantic: 33.3% (149)
+Butler: 32.0% (191)
+Fla Atlantic ↑ 42
+% points from 3: 
+Fla Atlantic: 34.4% (88)
+Butler: 27.0% (53)
+Butler ↑ 35
+Opponent 3 point %: 
+Fla Atlantic: 26.2% (35)
+Butler: 27.0% (53)
+Fla Atlantic ↑ 18
+
+Butler ↑ 107
+{107, 'Butler'}
+_______________________________________________________
+
+
+[('Stanford', 'Michigan')]
+#71 Stanford  vs.  #42 Michigan
+
+Strength of Schedule:
+Stanford: 111
+Michigan: 31
+Michigan ↑ 80
+
+Points per game: 
+Stanford: 85.0 (24)
+Michigan: 86.6 (20)
+Michigan ↑ 4
+
+Opponent Points per game: 
+Stanford: 77.6 (263)
+Michigan: 74.8 (222)
+Michigan ↑ 41
+
+Effective FG %: 
+Stanford: 54.4% (57)
+Michigan: 57.3% (19)
+Michigan ↑ 38
+
+Opponent Effective FG %: 
+Stanford: 47.4% (112)
+Michigan: 48.9% (168)
+Stanford ↑ 56
+
+Rebound Rate: 
+Stanford: 48.4% (236)
+Michigan: 55.6% (34)
+Michigan ↑ 202
+
+3 point statistics: 
+3 point %: 
+Stanford: 36.2% (79)
+Michigan: 37.7% (51)
+Michigan ↑ 28
+% points from 3: 
+Stanford: 32.5% (118)
+Michigan: 37.9% (313)
+Stanford ↑ 195
+Opponent 3 point %: 
+Stanford: 36.8% (287)
+Michigan: 37.9% (313)
+Stanford ↑ 26
+
+Michigan ↑ 309
+{'Michigan', 309}
+_______________________________________________________
+
+
+[('Boise St', 'VA Tech')]
+#74 Boise St  vs.  #53 VA Tech
+
+Strength of Schedule:
+Boise St: 28
+VA Tech: 170
+Boise St ↑ 142
+
+Points per game: 
+Boise St: 65.5 (282)
+VA Tech: 83.8 (27)
+VA Tech ↑ 255
+
+Opponent Points per game: 
+Boise St: 71.5 (165)
+VA Tech: 63.5 (51)
+VA Tech ↑ 114
+
+Effective FG %: 
+Boise St: 46.4% (259)
+VA Tech: 56.5% (27)
+VA Tech ↑ 232
+
+Opponent Effective FG %: 
+Boise St: 53.1% (268)
+VA Tech: 48.9% (164)
+VA Tech ↑ 104
+
+Rebound Rate: 
+Boise St: 45.8% (299)
+VA Tech: 53.1% (85)
+VA Tech ↑ 214
+
+3 point statistics: 
+3 point %: 
+Boise St: 33.3% (149)
+VA Tech: 37.0% (67)
+VA Tech ↑ 82
+% points from 3: 
+Boise St: 27.5% (227)
+VA Tech: 37.5% (305)
+Boise St ↑ 78
+Opponent 3 point %: 
+Boise St: 35.3% (254)
+VA Tech: 37.5% (305)
+Boise St ↑ 51
+
+VA Tech ↑ 777
+{777, 'VA Tech'}
+_______________________________________________________
+
+
+[('BYU', 'Arizona St')]
+#9 BYU  vs.  #89 Arizona St
+
+Strength of Schedule:
+BYU: 56
+Arizona St: 49
+Arizona St ↑ 7
+
+Points per game: 
+BYU: 95.5 (3)
+Arizona St: 63.3 (312)
+BYU ↑ 309
+
+Opponent Points per game: 
+BYU: 56.5 (6)
+Arizona St: 64.0 (55)
+BYU ↑ 49
+
+Effective FG %: 
+BYU: 58.1% (13)
+Arizona St: 42.2% (337)
+BYU ↑ 324
+
+Opponent Effective FG %: 
+BYU: 40.7% (15)
+Arizona St: 45.5% (74)
+BYU ↑ 59
+
+Rebound Rate: 
+BYU: 62.5% (2)
+Arizona St: 44.6% (324)
+BYU ↑ 322
+
+3 point statistics: 
+3 point %: 
+BYU: 37.0% (65)
+Arizona St: 29.0% (276)
+BYU ↑ 211
+% points from 3: 
+BYU: 39.3% (20)
+Arizona St: 29.6% (98)
+BYU ↑ 78
+Opponent 3 point %: 
+BYU: 19.7% (1)
+Arizona St: 29.6% (98)
+BYU ↑ 97
+
+BYU ↑ 1056
+{1056, 'BYU'}
+_______________________________________________________
+
+
+[('Iowa St', 'VCU')]
+#6 Iowa St  vs.  #111 VCU
+
+Strength of Schedule:
+Iowa St: 271
+VCU: 177
+VCU ↑ 94
+
+Points per game: 
+Iowa St: 91.3 (8)
+VCU: 68.3 (237)
+Iowa St ↑ 229
+
+Opponent Points per game: 
+Iowa St: 45.8 (1)
+VCU: 61.8 (37)
+Iowa St ↑ 36
+
+Effective FG %: 
+Iowa St: 58.9% (8)
+VCU: 51.0% (137)
+Iowa St ↑ 129
+
+Opponent Effective FG %: 
+Iowa St: 38.6% (3)
+VCU: 42.3% (30)
+Iowa St ↑ 27
+
+Rebound Rate: 
+Iowa St: 59.5% (7)
+VCU: 51.9% (116)
+Iowa St ↑ 109
+
+3 point statistics: 
+3 point %: 
+Iowa St: 39.4% (32)
+VCU: 28.1% (293)
+Iowa St ↑ 261
+% points from 3: 
+Iowa St: 21.4% (323)
+VCU: 30.6% (123)
+VCU ↑ 200
+Opponent 3 point %: 
+Iowa St: 29.5% (97)
+VCU: 30.6% (123)
+Iowa St ↑ 26
+
+Iowa St ↑ 436
+{'Iowa St', 436}
+_______________________________________________________
+
+
+[('NC State', 'Vanderbilt')]
+#50 NC State  vs.  #137 Vanderbilt
+
+Strength of Schedule:
+NC State: 293
+Vanderbilt: 303
+NC State ↑ 10
+
+Points per game: 
+NC State: 81.0 (55)
+Vanderbilt: 71.3 (191)
+NC State ↑ 136
+
+Opponent Points per game: 
+NC State: 58.7 (12)
+Vanderbilt: 69.0 (128)
+NC State ↑ 116
+
+Effective FG %: 
+NC State: 52.3% (109)
+Vanderbilt: 48.7% (202)
+NC State ↑ 93
+
+Opponent Effective FG %: 
+NC State: 43.0% (36)
+Vanderbilt: 51.9% (240)
+NC State ↑ 204
+
+Rebound Rate: 
+NC State: 51.4% (134)
+Vanderbilt: 56.3% (28)
+Vanderbilt ↑ 106
+
+3 point statistics: 
+3 point %: 
+NC State: 31.3% (210)
+Vanderbilt: 31.6% (201)
+Vanderbilt ↑ 9
+% points from 3: 
+NC State: 25.9% (266)
+Vanderbilt: 37.8% (310)
+NC State ↑ 44
+Opponent 3 point %: 
+NC State: 28.8% (83)
+Vanderbilt: 37.8% (310)
+NC State ↑ 227
+
+NC State ↑ 453
+{'NC State', 453}
+_______________________________________________________
+
+
+[('Texas Tech', 'N Iowa')]
+#49 Texas Tech  vs.  #150 N Iowa
+
+Strength of Schedule:
+Texas Tech: 73
+N Iowa: 75
+Texas Tech ↑ 2
+
+Points per game: 
+Texas Tech: 67.8 (244)
+N Iowa: 70.3 (205)
+N Iowa ↑ 39
+
+Opponent Points per game: 
+Texas Tech: 59.3 (15)
+N Iowa: 82.7 (320)
+Texas Tech ↑ 305
+
+Effective FG %: 
+Texas Tech: 47.7% (227)
+N Iowa: 48.9% (197)
+N Iowa ↑ 30
+
+Opponent Effective FG %: 
+Texas Tech: 41.9% (23)
+N Iowa: 54.3% (297)
+Texas Tech ↑ 274
+
+Rebound Rate: 
+Texas Tech: 54.8% (47)
+N Iowa: 49.5% (192)
+Texas Tech ↑ 145
+
+3 point statistics: 
+3 point %: 
+Texas Tech: 27.3% (310)
+N Iowa: 27.9% (299)
+N Iowa ↑ 11
+% points from 3: 
+Texas Tech: 29.9% (175)
+N Iowa: 43.5% (356)
+Texas Tech ↑ 181
+Opponent 3 point %: 
+Texas Tech: 24.8% (20)
+N Iowa: 43.5% (356)
+Texas Tech ↑ 336
+
+Texas Tech ↑ 657
+{657, 'Texas Tech'}
+_______________________________________________________
+
+
+[('Loyola-Chi', 'Boston Col')]
+#131 Loyola-Chi  vs.  #121 Boston Col
+
+Strength of Schedule:
+Loyola-Chi: 104
+Boston Col: 118
+Loyola-Chi ↑ 14
+
+Points per game: 
+Loyola-Chi: 71.2 (192)
+Boston Col: 75.8 (115)
+Boston Col ↑ 77
+
+Opponent Points per game: 
+Loyola-Chi: 74.0 (200)
+Boston Col: 70.4 (151)
+Boston Col ↑ 49
+
+Effective FG %: 
+Loyola-Chi: 50.7% (147)
+Boston Col: 50.3% (158)
+Loyola-Chi ↑ 11
+
+Opponent Effective FG %: 
+Loyola-Chi: 50.2% (199)
+Boston Col: 51.0% (214)
+Loyola-Chi ↑ 15
+
+Rebound Rate: 
+Loyola-Chi: 49.2% (209)
+Boston Col: 54.2% (60)
+Boston Col ↑ 149
+
+3 point statistics: 
+3 point %: 
+Loyola-Chi: 33.3% (149)
+Boston Col: 34.0% (133)
+Boston Col ↑ 16
+% points from 3: 
+Loyola-Chi: 30.3% (166)
+Boston Col: 36.8% (289)
+Loyola-Chi ↑ 123
+Opponent 3 point %: 
+Loyola-Chi: 40.9% (343)
+Boston Col: 36.8% (289)
+Boston Col ↑ 54
+
+Boston Col ↑ 235
+{'Boston Col', 235}
+_______________________________________________________
+
+
+[('Tulane', 'California')]
+#88 Tulane  vs.  #192 California
+
+Strength of Schedule:
+Tulane: 202
+California: 276
+Tulane ↑ 74
+
+Points per game: 
+Tulane: 87.0 (19)
+California: 73.0 (166)
+Tulane ↑ 147
+
+Opponent Points per game: 
+Tulane: 72.3 (178)
+California: 70.8 (157)
+California ↑ 21
+
+Effective FG %: 
+Tulane: 56.6% (25)
+California: 51.9% (120)
+Tulane ↑ 95
+
+Opponent Effective FG %: 
+Tulane: 49.2% (177)
+California: 51.1% (216)
+Tulane ↑ 39
+
+Rebound Rate: 
+Tulane: 44.6% (325)
+California: 55.6% (33)
+California ↑ 292
+
+3 point statistics: 
+3 point %: 
+Tulane: 27.1% (313)
+California: 33.9% (135)
+California ↑ 178
+% points from 3: 
+Tulane: 19.8% (337)
+California: 36.4% (277)
+California ↑ 60
+Opponent 3 point %: 
+Tulane: 30.1% (110)
+California: 36.4% (277)
+Tulane ↑ 167
+
+Tulane ↑ 42
+{42, 'Tulane'}
+_______________________________________________________
+
+
+Best bets according to the stats:
+BYU ↑ 1056
+VA Tech ↑ 777
+Texas Tech ↑ 657
+Creighton ↑ 520
+NC State ↑ 453
+Arizona ↑ 449
+Iowa St ↑ 436
+Texas A&M ↑ 341
+Michigan ↑ 309
+Oklahoma ↑ 244
+Boston Col ↑ 235
+Villanova ↑ 171
+Memphis ↑ 142
+Seton Hall ↑ 121
+Butler ↑ 107
+Tulane ↑ 42
+['BYU', 'VA Tech', 'Texas Tech', 'Creighton', 'NC State', 'Arizona', 'Iowa St', 'Texas A&M', 'Michigan', 'Oklahoma', 'Boston Col', 'Villanova', 'Memphis', 'Seton Hall', 'Butler', 'Tulane']
+
+
+Time taken for queue:  11 seconds
+
+Time taken for calls/printing:  2 seconds
+
+Time taken:  14 seconds
+
+Process finished with exit code 0
